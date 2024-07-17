@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 12%
 
 La integración de Adobe Journey Optimizer y Experience Manager Assets Essentials tiene varias ventajas, entre las que se incluyen:
 
-+ **Entrega de contenido eficaz**: Colabore fácilmente en contenido personalizado.
++ **Entrega de contenido eficiente**: Colabore sin problemas en contenido personalizado.
 + **Eficiencia de marketing mejorada**: ahorra tiempo y garantiza la coherencia de las campañas.
-+ **Personalización basada en datos**: adapta el contenido utilizando perspectivas valiosas.
-+ **Control de versiones y gobernanza**: Mantiene una mensajería de marca coherente.
-+ **Colaboración optimizada**: facilita el trabajo en equipo y los flujos de trabajo suaves.
++ **Personalización basada en datos**: adapta el contenido con información valiosa.
++ **Control y control de versiones**: Mantiene mensajes de marca coherentes.
++ **Colaboración optimizada**: facilita el trabajo en equipo y flujos de trabajo sin problemas.
 
 ## Integraciones comunes
 
@@ -28,7 +28,7 @@ La integración de Adobe Journey Optimizer y Experience Manager Assets Essential
         <tr>
             <th>aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>
@@ -42,7 +42,7 @@ La integración de Adobe Journey Optimizer y Experience Manager Assets Essential
                 </ul>
             </td>
             <td>
-                <ul style="margin-top: 0;"><li>Cree contenido con el Diseñador de correo electrónico de Journey Optimizer.</li></ul>
+                <ul style="margin-top: 0;"><li>Cree contenido con el Designer de correo electrónico de Journey Optimizer.</li></ul>
             </td>
         </tr>        
     </tbody>          

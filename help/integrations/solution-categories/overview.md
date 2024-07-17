@@ -4,8 +4,8 @@ description: Obtenga información sobre las configuraciones de integración comu
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 10%
+source-wordcount: '178'
+ht-degree: 11%
 
 ---
 
@@ -33,7 +33,7 @@ Tenga en cuenta que hay muchas formas de configurar las aplicaciones de Adobe, s
    </td>    
    <td>
       <a  href="./content-management.md"><img alt="Administración de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
-      <div><strong><a href="./content-management.md">Gestión de contenido</a></strong></div>
+      <div><strong><a href="./content-management.md">Administración de contenido</a></strong></div>
       <p>
         Administración de recursos y contenido
       </p>
@@ -49,14 +49,14 @@ Tenga en cuenta que hay muchas formas de configurar las aplicaciones de Adobe, s
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Recorridos del cliente" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Recorridos del cliente</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">recorridos del cliente</a></strong></div>
       <p>
         Organización y entrega omnicanal
       </p> 
     </td>
    <td>
       <a  href="./data-insights.md"><img alt="Perspectivas de datos y activación" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
-      <div><strong><a href="./data-insights.md"> Información de datos y activación</a></strong></div>
+      <div><strong><a href="./data-insights.md"> Datos de Insight y activación</a></strong></div>
       <p>
         [!DNL Analytics] y gestión de público
       </p>
@@ -64,8 +64,8 @@ Tenga en cuenta que hay muchas formas de configurar las aplicaciones de Adobe, s
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalización a escala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">Personalización como escala</a></strong></div>
+      <a  href="./personalization.md"><img alt="Personalization a escala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization como escala</a></strong></div>
       <p>
         Cómo convertir cada conexión en personal
       </p>

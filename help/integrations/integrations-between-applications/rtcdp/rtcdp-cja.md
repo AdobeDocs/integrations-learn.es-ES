@@ -1,5 +1,5 @@
 ---
-title: Integración de Real-time Customer Data Platform con [!DNL Customer Journey Analytics]
+title: Integrar Real-time Customer Data Platform con  [!DNL Customer Journey Analytics]
 description: Aprenda a integrar [!DNL Real-Time Customer Data  Platform] con [!DNL Customer Journey Analytics].
 solution: Real-Time Customer Data [!DNL Platform], Customer Journey [!DNL Analytics]
 feature: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 
 ---
 
-# Integración de datos de clientes en tiempo real [!DNL Platform] con el Recorrido del cliente [!DNL Analytics]
+# Integrar datos de clientes en tiempo real [!DNL Platform] con el Recorrido de clientes [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/cja-rtcdp.md}}

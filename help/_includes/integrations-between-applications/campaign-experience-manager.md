@@ -1,22 +1,22 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] Integración de y Experience Manager
+# [!DNL Campaign] e integración de Experience Manager
 
 {{campaign-description}}
 
 {{experience-manager-description}}
 
-Ventajas clave de la integración de Adobe [!DNL Campaign] AEM y los Experience Manager son:
+Los beneficios clave de integrar el Adobe AEM [!DNL Campaign] y el Experience Manager de la son:
 
-+ **Administrar el contenido de los envíos de correo electrónico** y sus formularios directamente en Adobe Experience Manager.
-+ **Uso de recursos de marca al editar un correo electrónico o una página de aterrizaje** en Adobe [!DNL Campaign], desde Adobe Experience Manager Assets.
++ **Administre el contenido de sus envíos de correo electrónico** y sus formularios directamente en Adobe Experience Manager.
++ **Use recursos de marca al editar un correo electrónico o una página de aterrizaje** en el Adobe [!DNL Campaign], desde Adobe Experience Manager Assets.
 
 ## Integraciones comunes
 
@@ -25,7 +25,7 @@ Ventajas clave de la integración de Adobe [!DNL Campaign] AEM y los Experience 
         <tr>
             <th>aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>

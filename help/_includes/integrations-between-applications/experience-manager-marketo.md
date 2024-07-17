@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 4%
+source-wordcount: '118'
+ht-degree: 2%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 4%
 La integración de Experience Manager y Marketo Engage ofrece varias ventajas, entre las que se incluyen:
 
 + **Creación y administración de formularios**: AEM Forms permite crear fácilmente formularios interactivos e integrarlos con Marketo Engage para la generación de posibles clientes.
-+ **Sincronización de datos**: AEM Forms sincroniza los envíos de formularios a Marketo Engage, lo que garantiza una captura y administración eficientes de los posibles clientes.
-+ **Formación de posibles clientes y automatización de campañas**: Integre AEM Forms con Marketo Engage para una transferencia de posibles clientes sin problemas, seguimientos automatizados, correos electrónicos dirigidos y seguimiento de posibles clientes.
++ **Sincronización de datos**: AEM Forms sincroniza los envíos de formularios con el Marketo Engage para garantizar una captura y administración eficientes de los posibles clientes.
++ **Automatización de campañas y nutrición de clientes potenciales**: integra AEM Forms con Marketo Engage para lograr una transferencia de clientes potenciales sin problemas, seguimientos automatizados, correos electrónicos dirigidos y seguimiento de clientes potenciales.
 
 ## Integraciones comunes
 
@@ -25,7 +25,7 @@ La integración de Experience Manager y Marketo Engage ofrece varias ventajas, e
     <thead>
         <tr>
             <th>aplicaciones de Experience Cloud</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>

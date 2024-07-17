@@ -17,7 +17,7 @@ Cree experiencias de comercio multicanal en una sola plataforma con nuestra solu
 
 <thead>
     <tr>
-      <th>Caso de uso</th>
+      <th>Ejemplo de uso</th>
       <th>Descripción</th>
       <th>Ejemplos</th>
       <th>Aplicaciones</th>
@@ -50,7 +50,7 @@ Cree experiencias de comercio multicanal en una sola plataforma con nuestra solu
  <tr>
    <td><strong>Análisis de datos e informes<strong></td>
    <td>Evalúe el canal de conversión del almacén de comercio, los pedidos, los ingresos y las métricas de visitas y visitantes.</td>
-   <td><ul style="margin-top: 0;"><li>Información de datos e informes sobre la actividad comercial.</li><li>Obtenga información exhaustiva sobre el Adobe [!DNL Commerce] almacene el rendimiento mediante las métricas y dimensiones clave que seleccione.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>Información de datos e informes sobre la actividad comercial.</li><li>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobes [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] y [!DNL Analytics]</a></td>
  </tr>
  </tbody>

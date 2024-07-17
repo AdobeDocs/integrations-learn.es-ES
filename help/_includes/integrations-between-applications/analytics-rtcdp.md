@@ -1,64 +1,64 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 1%
+source-wordcount: '305'
+ht-degree: 0%
 
 ---
 
 
-# Integrar Adobe [!DNL Analytics] con datos de clientes en tiempo real [!DNL Platform]
+# Integrar el Adobe [!DNL Analytics] con los datos de clientes en tiempo real [!DNL Platform]
 
 {{analytics-description}}
 
 {{real-time-cdp-description}}
 
-Integrando el Adobe [!DNL Analytics] con Adobe de datos de clientes en tiempo real [!DNL Platform] (Real-Time CDP) puede ofrecer varias ventajas a las empresas que buscan mejorar sus experiencias de cliente y sus esfuerzos de marketing. Estas son algunas de las ventajas clave:
+La integración del Adobe [!DNL Analytics] con el Adobe de datos del cliente en tiempo real [!DNL Platform] (Real-Time CDP) puede ofrecer varios beneficios para las empresas que buscan mejorar sus experiencias de cliente y sus esfuerzos de marketing. Estas son algunas de las ventajas clave:
 
 + **Segmentación y personalización de audiencias mejoradas**: Marketing preciso en dispositivos y canales, mensajes personalizados para una participación optimizada.
 + **Optimización de la página de aterrizaje mejorada**: experiencias adaptadas basadas en el dispositivo y el comportamiento, que mejoran la satisfacción y la conversión del usuario.
-+ **Activación de audiencia perfecta**: utilice los perfiles del cliente para una segmentación eficaz a través de los canales preferidos, entregando los mensajes relevantes.
++ **Activación de audiencia perfecta**: Utilice los perfiles del cliente para un direccionamiento efectivo a través de los canales preferidos y envíe mensajes relevantes.
 
-Combinando Adobe [!DNL Analytics] Con Real-Time CDP, las empresas pueden llevar sus esfuerzos de marketing al siguiente nivel, ofreciendo experiencias personalizadas, aumentando la participación de los clientes y optimizando las conversiones en varios puntos de contacto digitales.
+Al combinar el Adobe [!DNL Analytics] y Real-Time CDP, las empresas pueden llevar sus esfuerzos de marketing al siguiente nivel, ofreciendo experiencias personalizadas, aumentando la participación de los clientes y optimizando las conversiones en varios puntos de contacto digitales.
 
 <table>
     <thead>
         <tr>
             <th>aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>
     <tr>
         <td rowspan="2">[!DNL Analytics] con Real-Time CDP</td>
-        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experiencia [!DNL Platform] conector de origen</a></td>
+        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Conector de origen de Experience [!DNL Platform]</a></td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Enfoque recomendado para clientes que ya han implementado Adobe [!DNL Analytics]y desean la forma más rápida de introducir estos datos en Experience Platform [!DNL Platform] para usar en el Perfil del cliente en tiempo real.</li>
+                <li>Enfoque recomendado para los clientes que ya han implementado el Adobe [!DNL Analytics] y desean la forma más rápida de introducir estos datos en la experiencia [!DNL Platform] para usarlos en el perfil del cliente en tiempo real.</li>
                 <li>Cuando la disponibilidad de los datos para el Perfil del cliente en tiempo real puede estar entre 2 y 30 minutos desde el momento de la recopilación de datos, y la disponibilidad para el lago de datos es de hasta 90 minutos.</li>
             </ul>
         </td>
         <td>
             <ul style="margin-top: 0;">
                 <li>Flujo de trabajo iniciado directamente por la interfaz de usuario.</li>
-                <li>Asignación de la interfaz de usuario para copiar [!DNL Analytics] props y eVars para nuevos campos XDM.</li>
+                <li>Asignando la interfaz de usuario para copiar [!DNL Analytics] props y eVars en nuevos campos XDM.</li>
                 <li>La forma más rápida de obtener valor de Perfil del cliente en tiempo real y Recorrido del cliente [!DNL Analytics].</li>
             </ul>
         </td>
     </tr>
     <tr>
-       <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-edge.md" target="_blank" rel="noreferrer">Experiencia [!DNL Platform] Edge</a></td>
+       <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-edge.md" target="_blank" rel="noreferrer">Experiencia [!DNL Platform] en Edge</a></td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Enfoque recomendado para nuevas [!DNL Analytics] o cuando desee implementar una estrategia a largo plazo.</li>
-                <li>Envía datos directamente desde un dispositivo a Experience Cloud [!DNL Platform] mediante el SDK web de AEP, el SDK móvil de AEP o la API del servidor de red perimetral.</li>
-                <li>Clientes nuevos o existentes que necesitan [!DNL Analytics] disponibilidad de datos en el Perfil del cliente en tiempo real para admitir casos de uso de personalización de la misma página y de la siguiente.</li>
+                <li>Enfoque recomendado para nuevas implementaciones de [!DNL Analytics] o cuando se desea implementar una estrategia a largo plazo.</li>
+                <li>Envía datos directamente desde un dispositivo a Experience [!DNL Platform] mediante el SDK web de AEP, el SDK móvil de AEP o la API de servidor de Edge Network.</li>
+                <li>Clientes nuevos o existentes que necesitan disponibilidad de datos de [!DNL Analytics] en el perfil del cliente en tiempo real para admitir casos de uso de personalización de la misma página y de la siguiente.</li>
             </ul>
         </td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Proporciona el bueno nivel de control para los datos recopilados que se deben utilizar para admitir casos de uso.</li>
+                <li>Proporciona el mayor nivel de control sobre los datos recopilados para ayudar en sus casos de uso.</li>
                 <li>Los datos del lado del cliente se asignan fácilmente a campos XDM.</li>
                 <li>La disponibilidad de datos más rápida para el Perfil del cliente en tiempo real.</li>
             </ul>

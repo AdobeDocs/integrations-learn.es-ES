@@ -1,5 +1,5 @@
 ---
-title: Integrar [!DNL Campaign] Estándar con [!DNL Analytics] tutorial sobre el uso de Déclencheur
+title: Integrar  [!DNL Campaign] Standard con [!DNL Analytics] mediante el tutorial de Déclencheur
 description: Aprenda a configurar y utilizar activadores para la mensajería transaccional.
 solution: Analytics, Campaign, Campaign Standard
 feature: Integrations
@@ -12,25 +12,25 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="Integración" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 44%
 
 ---
 
-
-# Integrar [!DNL Campaign] Estándar con [!DNL Analytics] tutorial sobre el uso de Déclencheur
+# Integrar el estándar [!DNL Campaign] con [!DNL Analytics] mediante el tutorial de Déclencheur
 
 Aprenda a configurar y utilizar activadores para la mensajería transaccional.
 
-## Configuración de Adobe Experience Platform [!DNL Platform] Recopilación de datos para déclencheur
+## Configuración de la recopilación de datos de la experiencia de Adobe [!DNL Platform] para déclencheur
 
-Aprenda a utilizar Adobe Experience Platform [!DNL Platform] Recopilación de datos y agregue las propiedades necesarias al sitio web para probar la configuración.
+Obtenga información sobre cómo almacenar en Adobe la recopilación de datos de Experience [!DNL Platform] y agregar las propiedades necesarias al sitio web para probar la configuración.
 
 >[!IMPORTANT]
 >
-> Launch es ahora la función Etiquetas de Adobe Experience Platform [!DNL Platform]. Se encuentra en **Adobe Experience Platform [!DNL Platform] Recopilaciones de datos**.
+> Launch es ahora la característica Etiquetas de la experiencia de Adobe [!DNL Platform]. Se encuentra en **Recopilaciones de datos[!DNL Platform] de la experiencia de Adobe**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
@@ -40,17 +40,14 @@ Obtenga información sobre cómo configurar activadores en Experience Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
 
-## Creación de un déclencheur en [!DNL Campaign] Standard
+## Crear un déclencheur en [!DNL Campaign] estándar
 
-Obtenga información sobre cómo crear un evento de déclencheur en [!DNL Campaign] Estándar.
+Obtenga información sobre cómo crear un evento de déclencheur en [!DNL Campaign] Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 
-## Configuración de mensajes transaccionales mediante datos de eventos en tiempo real
+## Configuración de mensajes transaccionales mediante datos de evento en tiempo real
 
 Aprenda a configurar mensajes transaccionales utilizando datos de eventos en tiempo real procedentes de activadores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
-
-
-

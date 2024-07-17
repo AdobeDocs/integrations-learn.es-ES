@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 5%
+source-wordcount: '206'
+ht-degree: 1%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 5%
 
 AEM y Workfront permiten importar sin problemas contenido administrado de Workfront AEM para optimizar la organización y el acceso de los usuarios, lo que garantiza una entrega de recursos digitales oportuna y de alta calidad. Las ventajas principales incluyen:
 
-+ **Producción de contenido optimizada** AEM : la integración de y Adobe Workfront optimiza el proceso de creación de contenido de extremo a extremo.
-+ **Colaboración mejorada**: los equipos pueden colaborar fácilmente en proyectos de contenido, lo que fomenta una mejor comunicación y eficiencia.
-+ **Administración de recursos mejorada**: las funcionalidades de seguimiento de proyectos de Workfront permiten una mejor asignación y utilización de los recursos.
-+ **Aprobaciones y revisiones eficientes** AEM : la integración de y Workfront optimiza los flujos de trabajo de revisión y aprobación de contenido.
++ AEM **Producción de contenido optimizada**: La integración de Adobe Workfront y de optimiza el proceso de creación de contenido de extremo a extremo.
++ **Colaboración mejorada**: los equipos pueden colaborar sin problemas en proyectos de contenido, lo que fomenta una mejor comunicación y eficiencia.
++ **Administración de recursos mejorada**: las capacidades de seguimiento de proyectos de Workfront permiten una mejor asignación y utilización de los recursos.
++ AEM **Aprobaciones y revisiones eficientes**: La integración de Adobe y Workfront optimiza los flujos de trabajo de revisión y aprobación de contenido.
 + **Tiempo de salida al mercado más rápido**: la solución combinada acelera la entrega de contenido, lo que reduce el tiempo de salida al mercado de las campañas y los recursos.
 
 ## Integraciones comunes
@@ -28,13 +28,13 @@ AEM y Workfront permiten importar sin problemas contenido administrado de Workfr
         <tr>
             <th>aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es" target="_blank" rel="noreferrer">Workfront y AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront y AEM Assets Essentials</a></td>
             <td>Conector nativo</td>
             <td>
               <ul style="margin-top: 0;">

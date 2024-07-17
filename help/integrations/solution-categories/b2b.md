@@ -4,7 +4,7 @@ description: Coordine la administración de posibles clientes, ABM y la atribuci
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Coordine la administración de posibles clientes, ABM y la atribución a escala 
 
 <thead>
     <tr>
-      <th>Caso de uso</th>
+      <th>Ejemplo de uso</th>
       <th>Descripción</th>
       <th>Ejemplos</th>
       <th>Aplicaciones</th>
@@ -41,7 +41,7 @@ Coordine la administración de posibles clientes, ABM y la atribución a escala 
 
 <tr>
   <td rowspan="1"><strong>Expandir audiencias para plataformas de personalización y publicidad</strong><br/></td> 
-  <td>Uso [!DNL Analytics] datos para crear audiencias que se utilizarán en tácticas de personalización o remarketing.</td>
+  <td>Utilice los datos de [!DNL Analytics] para crear audiencias que se utilizarán en tácticas de personalización o remarketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Realice la segmentación y personalización de audiencias digitales en dispositivos o canales publicitarios admitidos.</li>
@@ -54,7 +54,7 @@ Coordine la administración de posibles clientes, ABM y la atribución a escala 
 
 <tr>
   <td><strong>Personalizar experiencias digitales</strong><br/></td>
-  <td> Utilice los perfiles de cliente en tiempo real y los informes administrados de forma centralizada [!DNL Platform] segmentos para personalizar la mensajería en canales web, móviles y otros canales digitales.
+  <td> Use los Perfiles de clientes en tiempo real y los segmentos [!DNL Platform] administrados centralmente para personalizar la mensajería en canales web, móviles y otros canales digitales.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -70,7 +70,7 @@ Coordine la administración de posibles clientes, ABM y la atribución a escala 
 <tr>
   <td><strong>Mejorar la generación de posibles clientes</strong><br/></td>
   <td>
-    Utilice los perfiles de cliente en tiempo real y los informes administrados de forma centralizada [!DNL Platform] segmentos para personalizar la mensajería en canales web, móviles y otros canales digitales
+    Use los Perfiles de clientes en tiempo real y los segmentos [!DNL Platform] administrados centralmente para personalizar la mensajería en canales web, móviles y otros canales digitales
   </td>
   <td>
     <ul style="margin-top: 0;">

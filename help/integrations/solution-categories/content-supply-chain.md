@@ -18,7 +18,7 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
 <table>
  <thead>
     <tr>
-      <th>Caso de uso</th>
+      <th>Ejemplo de uso</th>
       <th>Descripción</th>
       <th>Ejemplos</th>
       <th>Aplicaciones</th>
@@ -27,7 +27,7 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
   <tbody>
 <tr>
   <td><strong>Creación de garantías de marketing con activos de marca</strong><br/></td>
-  <td>AEM Cree y supervise plantillas y contenido de marketing por correo electrónico con el uso de la y el Adobe [!DNL Campaign].</td>
+  <td>AEM Genere y supervise plantillas y contenido de marketing por correo electrónico usando el Adobe y la [!DNL Campaign].</td>
   <td>
     <ul>
       <li>AEM Envío de correos electrónicos de marketing creados con</li>
@@ -84,7 +84,7 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
 </tr>
 <tr>
   <td><strong>Recopilar datos de clientes</strong><br/></td>
-  <td>Aumentar nativo [!DNL Campaign] funciones para recopilar datos de clientes para la segmentación y personalización de campañas de marketing.
+  <td>Aumente las capacidades nativas de [!DNL Campaign] para capturar los datos de los clientes con el fin de segmentar y personalizar las campañas de marketing.
   </td>
   <td>
     <ul>
@@ -92,7 +92,7 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
       <li>Suscripciones</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM FORMS y [!DNL Campaign] Standard</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms y [!DNL Campaign] Standard</a></td>
 </tr>
 </tbody>
 </table>

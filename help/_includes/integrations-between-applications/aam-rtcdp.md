@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 3%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 La integración de Adobe Audience Manager y Adobe Real-Time CDP ofrece las siguientes ventajas:
 
-+ **Perspectivas completas del cliente** con datos de origen y de terceros combinados, lo que permite una comprensión más profunda de las preferencias y comportamientos de los clientes.
-+ **Personalización en tiempo real** permite a los especialistas en marketing ofrecer experiencias relevantes, mejorando la participación y la satisfacción del cliente.
-+ **Segmentación de audiencia precisa** optimiza los esfuerzos de marketing, lo que conduce a campañas más efectivas y a un ROI mejorado.
-+ **Experiencias en canales múltiples sin problemas** garantizar mensajes coherentes y una mayor lealtad de los clientes.
-+ **Privacidad de datos y cumplimiento mejorados** cumplimiento genere confianza con los clientes y mitigue los riesgos de cumplimiento.
++ **Datos completos del cliente** con datos combinados de origen y de terceros, lo que permite una comprensión más profunda de las preferencias y comportamientos de los clientes.
++ La **personalización en tiempo real** permite a los especialistas en mercadotecnia ofrecer experiencias relevantes para mejorar la participación y satisfacción de los clientes.
++ **La segmentación precisa de audiencias** optimiza los esfuerzos de marketing, lo que conduce a campañas más efectivas y a un ROI mejorado.
++ **Experiencias en canales múltiples sin fisuras** garantizan mensajes consistentes y una mayor lealtad de los clientes.
++ **Cumplimiento y privacidad de datos mejorados**: genera confianza con los clientes y mitiga los riesgos de cumplimiento.
 
 ## Integraciones comunes
 
@@ -28,14 +28,14 @@ La integración de Adobe Audience Manager y Adobe Real-Time CDP ofrece las sigui
         <tr>
             <th>aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">AUDIENCE MANAGER y REAL-TIME CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager y Real-Time CDP</a>
             </td>
             <td>Conector de datos de Adobe Audience Manager</td>
             <td>

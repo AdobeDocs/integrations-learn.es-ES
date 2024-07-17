@@ -1,24 +1,24 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 2%
 
 ---
 
 
-# EXPERIENCE MANAGER y ADOBE [!DNL Commerce]
+# Experience Manager y Adobe [!DNL Commerce]
 
 {{experience-manager-description}}
 
 {{commerce-description}}
 
-AEM Integración de recursos y Adobe [!DNL Commerce] usando [!DNL Commerce] El marco de integración (CIF) ofrece varias ventajas, entre las que se incluyen:
+AEM La integración de la integración y el Adobe CIF de trabajo [!DNL Commerce] mediante el marco de trabajo de integración de [!DNL Commerce] () ofrece varias ventajas, entre las que se incluyen:
 
-+ **Acelerar la innovación** con componentes de comercio listos para usar, lo que reduce los requisitos de código personalizado.
-+ **Conversión de unidad** a través de experiencias personalizadas con la capa de datos del lado del cliente de Adobe.
-+ **Cree rápidamente experiencias de comercio enriquecidas y escalables** AEM con herramientas de CIF de la.
-+ **Creación optimizada** y gestione el contenido del producto de forma eficaz en puntos de contacto omnicanal.
++ **Acelere la innovación** con componentes de comercio listos para usar, lo que reduce los requisitos de código personalizado.
++ **Impulse la conversión** a través de experiencias personalizadas mediante la capa de datos del lado del cliente de Adobe.
++ AEM CIF **Cree rápidamente experiencias de comercio enriquecidas y escalables** con herramientas de de trabajo que le resulten.
++ **Optimice la creación** y administre el contenido del producto de manera eficiente en los puntos de contacto omnicanal.
 
 ## Integraciones comunes
 
@@ -27,18 +27,18 @@ AEM Integración de recursos y Adobe [!DNL Commerce] usando [!DNL Commerce] El m
         <tr>
             <th>aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites como Cloud Service y [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">Crear una sola tienda usando [!DNL Commerce] Marco de integración (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">CIF Crear una sola tienda utilizando [!DNL Commerce] Integration Framework ()</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEM Cuando quieras una sola tienda en el mercado de la.</li>
-                    <li>AEM Cuando quiera usar componentes principales de CIF de la para crear las tiendas.</li>
+                    <li>AEM CIF Cuando quiera usar componentes principales de la para crear las tiendas.</li>
                 </ul>
             </td>
             <td>
@@ -50,11 +50,11 @@ AEM Integración de recursos y Adobe [!DNL Commerce] usando [!DNL Commerce] El m
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">Crear varias tiendas usando [!DNL Commerce] Marco de integración (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">CIF Crear varias tiendas con el marco de trabajo de integración de [!DNL Commerce] ()</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEM Cuando quieras varias tiendas en el mercado de la.</li>
-                    <li>AEM Cuando quiera usar componentes principales de CIF de la para crear las tiendas.</li>
+                    <li>AEM CIF Cuando quiera usar componentes principales de la para crear las tiendas.</li>
                 </ul>
             </td>
             <td>
@@ -64,7 +64,7 @@ AEM Integración de recursos y Adobe [!DNL Commerce] usando [!DNL Commerce] El m
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=es" target="_blank" rel="noreferrer">Varios sistemas de comercio que utilizan [!DNL Commerce] Marco de integración (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=es" target="_blank" rel="noreferrer">CIF Varios sistemas de comercio que usan [!DNL Commerce] Integration Framework ()</a></td>
             <td>
                 <ul style="margin-top: 0;"><li>Cuando quiera tiendas de varias regiones o marcas usando muchos sistemas de comercio.</li></ul>
             </td>

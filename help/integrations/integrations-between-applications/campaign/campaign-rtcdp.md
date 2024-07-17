@@ -13,10 +13,10 @@ exl-id: 8da35245-c489-4156-bc8d-e6afd334a7c3
 source-git-commit: cb7b3dd4776f7a475519ae7b8ed9c3209f9d9917
 workflow-type: tm+mt
 source-wordcount: '13'
-ht-degree: 23%
+ht-degree: 7%
 
 ---
 
-# Integrar [!DNL Campaign] con datos de clientes en tiempo real [!DNL Platform]
+# Integrar [!DNL Campaign] con los datos de clientes en tiempo real [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

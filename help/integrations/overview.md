@@ -1,13 +1,13 @@
 ---
 title: Integraciones de aplicaciones
 description: Obtenga información sobre las configuraciones comunes para la integración de aplicaciones de Experience Cloud. Descubra cómo los mejores productos empresariales de Adobe pueden ayudarle a abordar sus desafíos empresariales.
-source-git-commit: 7a525d1a1890b12bd5955ed8c80d0cbf7e855461
+exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
-
 
 # Configuraciones de integración para aplicaciones de Experience Cloud
 

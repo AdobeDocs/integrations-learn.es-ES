@@ -17,7 +17,7 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
 <table>
  <thead>
     <tr>
-      <th>Caso de uso</th>
+      <th>Ejemplo de uso</th>
       <th>Descripción</th>
       <th>Ejemplos</th>
       <th>Aplicaciones</th>
@@ -26,7 +26,7 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
   <tbody>
 <tr>
   <td><strong>Creación de garantías de marketing con activos de marca</strong><br></td>
-  <td>AEM Cree y supervise plantillas y contenido de marketing por correo electrónico con el uso de la y el Adobe [!DNL Campaign].</td>
+  <td>AEM Genere y supervise plantillas y contenido de marketing por correo electrónico usando el Adobe y la [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>AEM Envío de correos electrónicos de marketing creados con</li>
@@ -37,14 +37,14 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
 
 <tr>
   <td><strong>Recopilar datos de clientes</strong><br></td>
- <td>Aumentar nativo [!DNL Campaign] funciones para recopilar datos de clientes para la segmentación y personalización de campañas de marketing.</td>
+ <td>Aumente las capacidades nativas de [!DNL Campaign] para capturar los datos de los clientes con el fin de segmentar y personalizar las campañas de marketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Cree perfiles y recopile información adicional. </li>
       <li>Suscripciones</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM FORMS y [!DNL Campaign] Standard</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms y [!DNL Campaign] Standard</a></td>
 </tr>
 
 <tr>
@@ -94,7 +94,7 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
 
 <tr>
   <td><strong>Personalizar experiencias digitales</strong><br></td>
-  <td>Utilice los perfiles de cliente en tiempo real y los informes administrados de forma centralizada [!DNL Platform] segmentos para personalizar la mensajería en canales web, móviles y otros canales digitales.</td>
+  <td>Use los Perfiles de clientes en tiempo real y los segmentos [!DNL Platform] administrados centralmente para personalizar la mensajería en canales web, móviles y otros canales digitales.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalización de contenido para visitantes conocidos</li>
@@ -108,7 +108,7 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
 
 <tr>
   <td><strong>Mejorar la generación de posibles clientes</strong><br></td>
-  <td>Utilice los perfiles de cliente en tiempo real y los informes administrados de forma centralizada [!DNL Platform] segmentos para personalizar la mensajería en canales web, móviles y otros canales digitales</td>
+  <td>Use los Perfiles de clientes en tiempo real y los segmentos [!DNL Platform] administrados centralmente para personalizar la mensajería en canales web, móviles y otros canales digitales</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalización de contenido para visitantes conocidos</li>

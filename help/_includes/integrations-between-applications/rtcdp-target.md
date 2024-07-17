@@ -2,39 +2,39 @@
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
 
-# Adobe de datos de clientes en tiempo real [!DNL Platform] y ADOBE [!DNL Target] integración
+# Adobe Integración de datos de clientes en tiempo real [!DNL Platform] y Adobe [!DNL Target]
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Integración de Real-Time CDP con [!DNL Target] permite personalizar el contenido mediante datos de clientes conocidos. Además, las funciones de control de datos y consentimiento de Real-Time CDP ayudan a garantizar que utiliza los datos de clientes conocidos de forma responsable y que cumple con las restricciones legales, contractuales y regulatorias, así como con las preferencias del cliente. Ventajas clave de la integración de Real-Time CDP y [!DNL Target] incluir:
+Al integrar Real-Time CDP con [!DNL Target], puede personalizar el contenido mediante datos de clientes conocidos. Además, las funciones de control de datos y consentimiento de Real-Time CDP ayudan a garantizar que utiliza los datos de clientes conocidos de forma responsable y que cumple con las restricciones legales, contractuales y regulatorias, así como con las preferencias del cliente. Las ventajas clave de integrar Real-Time CDP y [!DNL Target] son:
 
-+ **Ofrecer experiencias personalizadas** en su sitio web y aplicaciones móviles.
-+ **Uso compartido de segmentos y atributos de perfil** de Adobe Real-Time CDP a Adobe [!DNL Target].
-+ **[!DNL Target]content** a segmentos y mostrar valores de atributo.
++ **Ofrece experiencias personalizadas** en tu sitio web y aplicaciones móviles.
++ **Compartir segmentos y atributos de perfil** de Adobe Real-Time CDP al Adobe [!DNL Target].
++ **[!DNL Target]contenido** a segmentos y valores de atributo de visualización.
 
 <table>
     <thead>
         <tr>
             <th>aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
-            <th>Uso</th>
+            <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
     </thead>
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">REAL-TIME CDP y [!DNL Target]</a></td>
-        <td>SDK web y [!DNL Target] destino</td>
+        <td>SDK web y destino [!DNL Target]</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Si desea compartir los datos más rápido de Real-Time CDP a [!DNL Target] para su sitio web.</li>
+                <li>Si desea compartir datos con la mayor rapidez posible de Real-Time CDP a [!DNL Target] para su sitio web.</li>
             </ul>
         </td>
         <td>

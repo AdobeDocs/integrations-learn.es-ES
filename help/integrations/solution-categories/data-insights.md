@@ -17,7 +17,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <thead>
     <tr>
-      <th>Caso de uso</th>
+      <th>Ejemplo de uso</th>
       <th>Descripción</th>
       <th>Ejemplos</th>
       <th>Aplicaciones</th>
@@ -30,7 +30,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
    <td rowspan="8"><b>Análisis de datos e informes</b></td>
 
 <!--  ROW 2a  -->
-<td>Analizar los resultados de las pruebas de optimización, incluidas las pruebas A/B, mediante el Adobe [!DNL Target] y generación de informes completos mediante el Adobe [!DNL Analytics].</td>
+<td>Analice los resultados de las pruebas de optimización, incluidas las pruebas A/B, mediante el Adobe [!DNL Target] y la generación de informes completos mediante el Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Mostrar los resultados de las pruebas A/B en informes de análisis enriquecidos.</li>
        </ul></td>
@@ -39,10 +39,10 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <!--  ROW 2b  -->
 <tr>
-   <td>Envío de datos de segmentos del Audience Manager a [!DNL Analytics] para un análisis de audiencia, un descubrimiento y una optimización más profundos.</td>
+   <td>Envíe datos de segmentos del Audience Manager a [!DNL Analytics] para obtener un análisis, una detección y una optimización de audiencias más profundos.</td>
     <td><ul style="margin-top: 0;">
         <li>Envíe datos de segmentos de terceros a [!DNL Analytics] para un análisis de usuario más profundo.</li>
-        <li>Envío de datos CRM a [!DNL Analytics] para su inclusión en el análisis de usuarios.</li>
+        <li>Enviar datos CRM a [!DNL Analytics] para su inclusión en el análisis de usuarios.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">AUDIENCE MANAGER y [!DNL Analytics]</a></td>
  </tr>
@@ -51,14 +51,14 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 <tr>
    <td>Expanda audiencias para plataformas de personalización y publicidad.</td>
     <td><ul style="margin-top: 0;">
-        <li>Utilice el reenvío del lado del servidor para enviar [!DNL Analytics] datos al Audience Manager para crear segmentos.</li>
+        <li>Use el reenvío del lado del servidor para enviar datos de [!DNL Analytics] al Audience Manager y crear segmentos.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">AUDIENCE MANAGER y [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2d  -->
 <tr>
-   <td>Rastree, analice y notifique la participación del usuario con los formularios digitales mediante AEM Forms y [!DNL Analytics]. </td>
+   <td>Rastree, analice y genere informes de la participación del usuario con formularios digitales mediante AEM Forms y [!DNL Analytics]. </td>
    <td><ul style="margin-top: 0;">
         <li>Informe sobre las dimensiones y métricas de envío de formularios, incluidos los campos de formulario completados y los campos de formulario con errores.</li>
        </ul></td>
@@ -67,10 +67,10 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Rastree, analice e informe la actividad de los usuarios en sitios web de AEM Sites mediante el Adobe [!DNL Analytics] para obtener informes y perspectivas completos.</td>
+   <td>Rastree, analice y genere informes sobre la actividad de los usuarios en sitios web de AEM Sites usando el Adobe [!DNL Analytics] para obtener informes y perspectivas completos.</td>
    <td><ul style="margin-top: 0;">
         <li>Rastree, analice e informe sobre métricas clave para páginas de sitio.</li>
-        <li>Uso [!DNL Analytics] para tomar decisiones basadas en datos para la experiencia del usuario y la estrategia de contenido.</li>
+        <li>Use los informes de [!DNL Analytics] para tomar decisiones basadas en datos para la experiencia del usuario y la estrategia de contenido.</li>
         <li>Analice las rutas de conversión superior e inferior.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/experience-manager/experience-manager-analytics.md" target="_blank" rel="noopener noreferrer">AEM SITES y [!DNL Analytics]</a></td>
@@ -78,7 +78,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <!--  ROW 2f  -->
 <tr>
-   <td>Obtenga información exhaustiva sobre el Adobe [!DNL Campaign] campañas de marketing por correo electrónico con métricas previas al clic y tasas de conversión.</td>
+   <td>Obtenga información exhaustiva sobre las campañas de marketing por correo electrónico de Adobe [!DNL Campaign] mediante las métricas de clics previos y las tasas de conversión.</td>
    <td><ul style="margin-top: 0;">
         <li>Rastree, analice e informe las métricas de conversión posteriores al clic para campañas de correo electrónico.</li>
         <li>Desglose de campañas en otras dimensiones recopiladas en [!DNL Analytics].</li>
@@ -89,17 +89,17 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Obtenga información exhaustiva sobre el Adobe [!DNL Commerce] almacene el rendimiento mediante las métricas y dimensiones clave que seleccione.</td>
+   <td>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobes [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</td>
    <td><ul style="margin-top: 0;">
         <li>Información de datos e informes sobre la actividad comercial.</li>
-        <li>Obtenga información exhaustiva sobre el Adobe [!DNL Commerce] almacene el rendimiento mediante las métricas y dimensiones clave que seleccione.</li>
+        <li>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobes [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] y [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2h  -->
 <tr>
-   <td>Usar Adobe [!DNL Analytics] datos de comportamiento en Analysis Workspace en Customer Recorrido [!DNL Analytics].</td>
+   <td>Use los datos de comportamiento del Adobe [!DNL Analytics] en Analysis Workspace en el Recorrido del cliente [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Analice la participación y conversión del canal.</li>
         <li>Comprenda las principales categorías y productos de.</li>
@@ -119,7 +119,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
   <td>Utilice fuentes de datos de varios canales para crear audiencias que se utilizarán para tácticas de personalización y remarketing.</td>
   <td><ul style="margin-top: 0;"><li>Envío de segmentos de audiencia a Real-Time CDP para su envío a destinos</li>
      </ul></td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">Recorrido del cliente [!DNL Analytics] y datos de clientes en tiempo real [!DNL Platform]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">Recorrido del cliente [!DNL Analytics] y datos del cliente en tiempo real [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3c  -->
@@ -143,7 +143,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
  </tr>
 
 <!--  ROW 3e  -->
-<td>Uso [!DNL Analytics] datos para crear audiencias que se utilizarán en tácticas de personalización o remarketing.</td>
+<td>Utilice los datos de [!DNL Analytics] para crear audiencias que se utilizarán en tácticas de personalización o remarketing.</td>
    <td><ul style="margin-top: 0;"><li>Realice la segmentación y personalización de audiencias digitales en dispositivos o canales publicitarios admitidos.</li>
            <li>Optimizar las páginas de aterrizaje conocidas del cliente y las experiencias anónimas en función del dispositivo y los atributos de comportamiento.</li>
            <li>Active audiencias en canales conocidos, como correo electrónico y SMS.</li>
@@ -154,7 +154,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 <!--  ROW 4  -->
 <tr>
    <td><b>Mida el uso y el rendimiento de la imagen de marketing</b></td>
-   <td>Realice un seguimiento y analice la eficacia de las imágenes de marketing mediante la integración de AEM Assets y Adobe [!DNL Analytics].</td>
+   <td>Rastree y analice la efectividad de las imágenes de mercadotecnia integrando AEM Assets y el Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;"><li>Rastree y analice el rendimiento de los recursos.</li>
            <li>Analice la participación del usuario.</li>
            <li>Optimizar la estrategia de contenido.</li>
