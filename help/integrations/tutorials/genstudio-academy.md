@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: Aterrizaje de GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -22,12 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> IA generativa maestra. Transforme sus flujos de trabajo.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    Conozca las habilidades principales para utilizar la IA generativa en los flujos de trabajo de marketing. En cualquier sitio. De forma gratuita.
+    <strong style= "font-size: 2em"> IA generativa maestra. Transforme sus flujos de trabajo.</strong><p>Conozca las habilidades principales para utilizar la IA generativa en los flujos de trabajo de marketing. En cualquier sitio. De forma gratuita.
   </td>
  </tr>
 </table>
