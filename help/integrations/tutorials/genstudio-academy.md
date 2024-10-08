@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: Aterrizaje de GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: aeefe4dcd0140149b419fc77631b324797547b30
+source-git-commit: e8809d1e8662797ef6c3fdf0370e83f96797f600
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 1%
+source-wordcount: '254'
+ht-degree: 2%
 
 ---
 
@@ -79,12 +79,19 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
- <td><img src="./assets/medium.png"></td>
-  <td> <strong style= "font-size: 2em">PIE DE PÁGINA</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrar</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Iniciar sesión</span></a></td>
+ <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td> <strong style= "font-size: 2em">Ponga sus conocimientos en práctica</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Acceder</span></a></td>
 
 </tr>
 </table>
 
+<table>
+ <tr style= "border: 0;">
+ <td><img src="./assets/medium.png"></td>
+  <td> <strong style= "font-size: 2em">PIE DE PÁGINA</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Llévame allí</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Iniciar sesión</span></a></td>
+
+</tr>
+</table>
 
 >[!ENDSHADEBOX]
 
