@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: Aterrizaje de GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: b4ab8bedfe1ad34e60fc52ce7c365f1b75de4fc8
+source-git-commit: 1a27e9f8e63aad4c24d0461abdd4f6b0fa40c1a8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 1%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
+  <td>&gt;<img src="https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay"></td>
   <td> <strong style= "font-size: 2em">Ponga sus conocimientos en práctica</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Acceder</span></a><td>
  </tr>
 </table>
