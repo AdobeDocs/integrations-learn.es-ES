@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: Aterrizaje de GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: e8809d1e8662797ef6c3fdf0370e83f96797f600
+source-git-commit: e55be0b347a77cca64cc466ea9188f30ab5f7067
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '201'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 2%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong style= "font-size: 2em">Desglose de IA generativa para marketing.</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrar</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Iniciar sesión</span></a><td>
+  <td> <strong style= "font-size: 2em">Desglose de IA generativa para marketing.</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Acceder</span><td>
  </tr>
 </table>
 
@@ -61,7 +61,7 @@ ht-degree: 2%
  <tr style= "border: 0;colspan: 2;">
   <td> <strong style= "font-size: 2em">Próximamente a Genstudio Academy</strong></td>
  </tr> 
- <tr> 
+ <tr style= "border: 0;colspan: 2;"> 
     <td align="left"><img src="./assets/small.png"></td>
     <td align="center"><img src="./assets/small.png"></td>
     <td align="right"><img src="./assets/small.png"></td>
@@ -72,23 +72,8 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong style= "font-size: 2em">Ponga sus conocimientos en práctica</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Acceder</span></a><td>
- </tr>
-</table>
-
-<table>
- <tr style= "border: 0;">
  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
   <td> <strong style= "font-size: 2em">Ponga sus conocimientos en práctica</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Acceder</span></a></td>
-
-</tr>
-</table>
-
-<table>
- <tr style= "border: 0;">
- <td><img src="./assets/medium.png"></td>
-  <td> <strong style= "font-size: 2em">PIE DE PÁGINA</strong><p> Conviértase en líder de IA generativa. Domine las habilidades de IA para transformar sus flujos de trabajo y liderar su industria hacia adelante. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Llévame allí</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Iniciar sesión</span></a></td>
 
 </tr>
 </table>
