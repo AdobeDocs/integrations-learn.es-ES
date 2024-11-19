@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de integración de Experience Cloud
 breadcrumb-title: Integraciones de Experience Cloud
 user-guide-description: Información sobre integraciones.
 mini-toc-levels: 1
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: 1ef94353ffe1be605df8e575edac3e2a9ef69afb
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 19%
+source-wordcount: '113'
+ht-degree: 22%
 
 ---
 
@@ -105,11 +105,6 @@ ht-degree: 19%
    + GenStudio for Performance Marketing y el Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [Información general](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Configurar](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
-HEAD &lt;&lt;&lt;&lt;&lt;&lt;&lt;
-      + [Recorrido de integración](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-=======
-      + [Introducción a la integración](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
->>>>>>>>>>edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
-+ [Caso de uso #1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-+ [Caso de uso #2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
-> 
+      + [Tutorial de integración](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
+      + [Caso de uso #1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [Caso de uso #2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
