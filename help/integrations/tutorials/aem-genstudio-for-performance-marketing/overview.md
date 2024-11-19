@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -33,21 +33,21 @@ Explore dos tutoriales completos: el primero le guía a través del proceso de c
 
 <!-- CARDS 
 
-* 
-*
+* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup
+    {title=Set up}
+* hhttps://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
+    {title=Walkthrough}
 
 -->
 
-
 ## Casos de uso
-
 
 Explore casos de uso prácticos que muestren cómo esta integración mejora los flujos de trabajo. Desde simplificar los procesos de aprobación de recursos hasta crear y utilizar variantes de contenido personalizadas, vea cómo los AEM Assets as a Cloud Service y GenStudio for Performance Marketing trabajan juntos para potenciar campañas de marketing de rendimiento eficientes y coherentes.
 
 
 <!-- CARDS 
 
-* 
-*
+* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1
+* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2
 
 -->
