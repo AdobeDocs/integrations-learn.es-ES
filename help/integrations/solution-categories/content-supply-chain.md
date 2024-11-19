@@ -2,10 +2,10 @@
 title: Integraciones de aplicaciones para la cadena de suministro de contenido
 description: Planifique, cree, personalice y publique contenido.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
   </thead>
   <tbody>
 <tr>
-  <td><strong>Creación de garantías de marketing con activos de marca</strong><br/></td>
+  <td rowspan="2"><strong>Creación de garantías de marketing con activos de marca</strong><br/></td>
   <td>AEM Genere y supervise plantillas y contenido de marketing por correo electrónico usando el Adobe y la [!DNL Campaign].</td>
   <td>
     <ul>
@@ -36,8 +36,18 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] AEM y la</a></td>
 </tr>
 <tr>
+  <td>Cree experiencias de marketing personalizadas y sin marca.</td>
+  <td>
+    <ul>
+      <li>Envíe correos electrónicos de marketing creados en GenStudio for Performance Marketing con imágenes de marca de AEM Assets.</li>
+      <li>Cree anuncios Meta en la marca en GenStudio for Performance Marketing usando imágenes de AEM Assets en la marca.</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GENSTUDIO FOR PERFORMANCE MARKETING AEM y</a></td>
+</tr>
+<tr>
   <td rowspan="3"><strong>Administrar la creación de recursos</strong><br/></td>
-  <td>Coordine y mida la creación y el uso de recursos en una empresa mediante la integración de AEM Assets y Workfront.</td>
+  <td>Coordinar y medir la creación y el uso de recursos en una empresa mediante la integración de AEM Assets y Workfront.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Administración de recursos empresariales</li>
