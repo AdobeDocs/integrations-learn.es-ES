@@ -11,17 +11,20 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16484
+index: true
+hidefromtoc: true
+badgeIntegration: label="AEM Recurso de y GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 6b108fc5a24d8949417a2ef14fa0d5a376f0b1aa
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
 # Crear variantes con Adobe GenStudio
 
-[‹ Volver a la descripción general de integración](./overview.md)
+[AEM ‹ Volver a la descripción general de recursos y GenStudio for Performance Marketing de la](./overview.md)
 
 Descubra cómo el as a Cloud Service y el Adobe Express de los AEM Assets trabajan junto con GenStudio for Performance Marketing para crear rápidamente variaciones de recursos adaptadas para campañas de marketing coherentes. Genere y adapte fácilmente elementos visuales para promociones de correo electrónico y anuncios Meta, lo que garantiza la coherencia al dirigirse a diversas audiencias para la misma experiencia de marketing.
 
