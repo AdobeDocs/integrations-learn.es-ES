@@ -12,12 +12,12 @@ duration: 133
 last-substantial-update: 2024-11-21T00:00:00Z
 jira: KT-16480
 index: true
-hidefromtoc: true
+hidefromtoc: false
 badgeIntegration: label="AEM Asset y GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
+source-git-commit: 67814146c561a483a00dd82f7cf1116c114beaf6
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -48,18 +48,18 @@ Explore dos tutoriales completos diseñados para usuarios con conocimientos bás
     {cta=Learn}
     {image=https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=2000&format=webply&optimize=medium}
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
-    {title=Get started with the integration}
+    {title=Get started with GenStudio for Performance Marketing and AEM Assets}
     {cta=Learn}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up GenStudio and Performance Marketing and AEM Assets">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up GenStudio for Performance Marketing and AEM Assets">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" title="Configuración de GenStudio y AEM Assets de marketing y rendimiento" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=400&format=webply&optimize=medium" alt="Configuración de GenStudio y AEM Assets de marketing y rendimiento"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" title="Configuración de GenStudio for Performance Marketing y AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=400&format=webply&optimize=medium" alt="Configuración de GenStudio for Performance Marketing y AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,9 +67,9 @@ Explore dos tutoriales completos diseñados para usuarios con conocimientos bás
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" title="Configuración de GenStudio y AEM Assets de marketing y rendimiento">Configurar AEM Assets y marketing de rendimiento y GenStudio</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" title="Configuración de GenStudio for Performance Marketing y AEM Assets">Configurar GenStudio for Performance Marketing y AEM Assets</a>
                     </p>
-                    <p class="is-size-6">Obtenga información sobre cómo configurar la integración entre AEM Assets con GenStudio for Performance Marketing.</p>
+                    <p class="is-size-6">Configure Adobe GenStudio con GenStudio for Performance Marketing y AEM Assets para optimizar la creación de contenido y garantizar la coherencia de la marca.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Aprender</span>
@@ -77,12 +77,12 @@ Explore dos tutoriales completos diseñados para usuarios con conocimientos bás
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get started with the integration">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get started with GenStudio for Performance Marketing and AEM Assets">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="Introducción a la integración" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1733416518352" alt="Introducción a la integración"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="Introducción a GenStudio for Performance Marketing y AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="Introducción a GenStudio for Performance Marketing y AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,9 +90,9 @@ Explore dos tutoriales completos diseñados para usuarios con conocimientos bás
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" title="Introducción a la integración">Introducción a la integración</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" title="Introducción a GenStudio for Performance Marketing y AEM Assets">Introducción a GenStudio for Performance Marketing y AEM Assets</a>
                     </p>
-                    <p class="is-size-6">Conozca los conceptos básicos del uso de la integración de AEM Assets y GenStudio for Performance Marketing, la carga de recursos a AEM Assets, la aprobación de recursos en AEM Assets y el uso de recursos aprobados en GenStudio for Performance Marketing.</p>
+                    <p class="is-size-6">Aprenda a utilizar AEM Assets y GenStudio for Performance Marketing, desde la carga y aprobación de recursos en AEM hasta el uso de recursos en GenStudio for Performance Marketing.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Aprender</span>
@@ -120,7 +120,7 @@ Explore casos de uso prácticos diseñados para usuarios con una comprensión b�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Revisión y aprobación ligeras en Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Revisión y aprobación ligeras en Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Revisión y aprobación ligeras en Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,7 +143,7 @@ Explore casos de uso prácticos diseñados para usuarios con una comprensión b�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Crear variantes con Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1733416518722" alt="Crear variantes con Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="Crear variantes con Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
