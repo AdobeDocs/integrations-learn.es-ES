@@ -1,8 +1,8 @@
 ---
 title: Uso de Adobe GenStudio for Performance Marketing y AEM Assets
 description: Desbloquee Adobe GenStudio para optimizar el marketing. Acceda a recursos aprobados por la marca y cree contenido coherente y de alta calidad en todos los canales.
-solution: Experience Manager, GenStudio for Performance Marketing
-version: Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: Leader, User
@@ -15,7 +15,7 @@ index: true
 hidefromtoc: false
 badgeIntegration: label="AEM Asset y GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 67814146c561a483a00dd82f7cf1116c114beaf6
+source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Libere la potencia de Adobe GenStudio y AEM Assets as a Cloud Service para trans
 
 La integración entre AEM Assets y GenStudio for Performance Marketing requiere una comprensión básica de lo siguiente:
 
-* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/es/browse/genstudio-for-performance-marketing)
 * [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/assets/overview)
 
 Antes de sumergirse en la configuración y los flujos de trabajo, asegúrese de que tiene el acceso necesario a AEM Assets y GenStudio for Performance Marketing.
