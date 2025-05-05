@@ -41,7 +41,7 @@ Descubra una solución completa que le permite crear sin esfuerzo experiencias d
           href="../integrations-between-applications/campaign/campaign-experience-manager.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Campaign] y {100</a
+          >[!DNL Campaign] y &lbrace;100</a
         >
       </td>
     </tr>
