@@ -31,7 +31,7 @@ Use el Adobe [!DNL Campaign] con el Adobe [!DNL Target] para personalizar y opti
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 con [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html?lang=es" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 con [!DNL Target]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Cuando quiera personalizar el contenido del correo electrónico.</li>

@@ -34,7 +34,7 @@ AEM y Workfront permiten importar sin problemas contenido administrado de Workfr
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront y AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es" target="_blank" rel="noreferrer">Workfront y AEM Assets Essentials</a></td>
             <td>Conector nativo</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEM y Workfront permiten importar sin problemas contenido administrado de Workfr
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">WORKFRONT y AEM ASSETS</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=es" target="_blank" rel="noreferrer">WORKFRONT y AEM ASSETS</a></td>
             <td>Conector mejorado</td>
             <td>
                 <ul style="margin-top: 0;">

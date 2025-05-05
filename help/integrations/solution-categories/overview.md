@@ -18,21 +18,21 @@ Tenga en cuenta que hay muchas formas de configurar las aplicaciones de Adobe, s
 <table>
 <tr>
     <td>
-      <a  href="./b2b.md"><img alt="Marketing B2b" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <a  href="./b2b.md"><img alt="Marketing B2b" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png?lang=es"/></a>
       <div><strong><a href="./b2b.md">Marketing B2B</a></strong></div>
       <p>
         Automatización de marketing y asociación de ventas
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="comercio" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="comercio" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png?lang=es"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Comercio digital B2B y B2C
       </p>
    </td>    
    <td>
-      <a  href="./content-management.md"><img alt="Administración de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <a  href="./content-management.md"><img alt="Administración de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png?lang=es"/></a>
       <div><strong><a href="./content-management.md">Administración de contenido</a></strong></div>
       <p>
         Administración de recursos y contenido
@@ -41,21 +41,21 @@ Tenga en cuenta que hay muchas formas de configurar las aplicaciones de Adobe, s
 </tr>
 <tr>
    <td>
-      <a  href="./content-supply-chain.md"><img alt="Cadena de suministro de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <a  href="./content-supply-chain.md"><img alt="Cadena de suministro de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=es"/></a>
       <div><strong><a href="./content-supply-chain.md">Cadena de suministro de contenido</a></strong></div>
       <p>
         Acelerar la creación y entrega de contenido
       </p> 
     </td>
    <td>
-      <a  href="./customer-journeys.md"><img alt="Recorridos del cliente" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <a  href="./customer-journeys.md"><img alt="Recorridos del cliente" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png?lang=es"/></a>
       <div><strong><a href="./customer-journeys.md">recorridos del cliente</a></strong></div>
       <p>
         Organización y entrega omnicanal
       </p> 
     </td>
    <td>
-      <a  href="./data-insights.md"><img alt="Perspectivas de datos y activación" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <a  href="./data-insights.md"><img alt="Perspectivas de datos y activación" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png?lang=es"/></a>
       <div><strong><a href="./data-insights.md"> Datos de Insight y activación</a></strong></div>
       <p>
         [!DNL Analytics] y gestión de público
@@ -64,7 +64,7 @@ Tenga en cuenta que hay muchas formas de configurar las aplicaciones de Adobe, s
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalization a escala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <a  href="./personalization.md"><img alt="Personalization a escala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png?lang=es"/></a>
       <div><strong><a href="./personalization.md">Personalization como escala</a></strong></div>
       <p>
         Cómo convertir cada conexión en personal

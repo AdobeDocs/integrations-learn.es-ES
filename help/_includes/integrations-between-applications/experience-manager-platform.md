@@ -32,7 +32,7 @@ AEM La integración de la experiencia y la experiencia [!DNL Platform] proporcio
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager y experiencia [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=es" target="_blank" rel="noreferrer">Experience Manager y experiencia [!DNL Platform]</a></td>
             <td>SDK web de Experience [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -33,7 +33,7 @@ La integración de Adobe [!DNL Analytics] con el Adobe [!DNL Campaign] permite u
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Estándar con [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Cuenta externa [!DNL Campaign] vinculada al Adobe [!DNL Analytics] y a la configuración de administración en [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=es" target="_blank" rel="noreferrer">Cuenta externa [!DNL Campaign] vinculada al Adobe [!DNL Analytics] y a la configuración de administración en [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Cuando quiera rastrear el éxito de sus envíos de correo electrónico de [!DNL Campaign] directamente en el Adobe [!DNL Analytics].</li>

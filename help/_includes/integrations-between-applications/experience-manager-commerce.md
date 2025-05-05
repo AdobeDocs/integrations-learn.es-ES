@@ -34,7 +34,7 @@ AEM La integración de la integración y el Adobe CIF de trabajo [!DNL Commerce]
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites como Cloud Service y [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">CIF Crear una sola tienda utilizando [!DNL Commerce] Integration Framework ()</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=es" target="_blank" rel="noreferrer">CIF Crear una sola tienda utilizando [!DNL Commerce] Integration Framework ()</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEM Cuando quieras una sola tienda en el mercado de la.</li>
@@ -50,7 +50,7 @@ AEM La integración de la integración y el Adobe CIF de trabajo [!DNL Commerce]
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">CIF Crear varias tiendas con el marco de trabajo de integración de [!DNL Commerce] ()</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=es" target="_blank" rel="noreferrer">CIF Crear varias tiendas con el marco de trabajo de integración de [!DNL Commerce] ()</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEM Cuando quieras varias tiendas en el mercado de la.</li>

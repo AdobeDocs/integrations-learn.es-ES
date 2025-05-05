@@ -57,7 +57,7 @@ En general, esta integración reúne datos valiosos y perspectivas de audiencia.
         </tr>        
         <tr>
             <td>
-                El Audience Manager <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer"> devuelve datos a [!DNL Analytics]</a>
+                El Audience Manager <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=es" target="_blank" rel="noreferrer"> devuelve datos a [!DNL Analytics]</a>
             </td>
             <td>extensión de etiquetas de Adobe [!DNL Analytics] para AppMeasurement.js con el reenvío del lado del servidor habilitado</td>
             <td>
