@@ -26,10 +26,10 @@ ht-degree: 1%
 
 Obtenga información sobre cómo activar un segmento de experiencia de Adobe [!DNL Platform] en un destino mediante el tipo de conexión de Amazon S3.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453124?quality=12&learn=on&captions=spa)
 
 ## Importar datos de destinatario de la experiencia [!DNL Platform] y enviar un correo electrónico
 
 Obtenga información sobre cómo configurar una cuenta externa en el Adobe [!DNL Campaign] para importar los datos del destinatario de la experiencia de Adobe [!DNL Platform] a [!DNL Campaign]. Obtenga información sobre cómo crear un flujo de trabajo para cargar y segmentar los destinatarios recibidos de la experiencia [!DNL Platform].
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453480?quality=12&learn=on&captions=spa)

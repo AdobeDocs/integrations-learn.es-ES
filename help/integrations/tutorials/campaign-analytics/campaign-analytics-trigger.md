@@ -32,22 +32,22 @@ Obtenga información sobre cómo almacenar en Adobe la recopilación de datos de
 >
 > Launch es ahora la característica Etiquetas de la experiencia de Adobe [!DNL Platform]. Se encuentra en **Recopilaciones de datos[!DNL Platform] de la experiencia de Adobe**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454019?quality=12&learn=on&captions=spa)
 
 ## Creación de un activador en Experience Cloud
 
 Obtenga información sobre cómo configurar activadores en Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446141?quality=12&learn=on&captions=spa)
 
 ## Crear un déclencheur en [!DNL Campaign] estándar
 
 Obtenga información sobre cómo crear un evento de déclencheur en [!DNL Campaign] Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446412?quality=12&learn=on&captions=spa)
 
 ## Configuración de mensajes transaccionales mediante datos de evento en tiempo real
 
 Aprenda a configurar mensajes transaccionales utilizando datos de eventos en tiempo real procedentes de activadores.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450205?quality=12&learn=on&captions=spa)
