@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>API de Edge Network Server:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=es" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
                 </ul>
        </ul>
     <li><i>(Opcional)</i>. Si usa varios conjuntos de datos, vincule el ID de la persona para <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=es" _target="_blank" rel="noopener noreferrer">generar un conjunto de datos combinado</a>. Si utiliza un solo conjunto de datos de [!DNL Analytics] o si existe un identificador común en todos los conjuntos de datos que planea usar en el Recorrido del cliente [!DNL Analytics], omita este paso.</li>
