@@ -45,7 +45,7 @@ Para ello, inicie sesión en la sección de administración del Adobe [!DNL Comm
 
      ![Conector de experiencia [!DNL Platform]](./assets/analytics-commerce/experience-platform-connector.png)
 
-Para obtener más información sobre cada fase y paso del proceso de incorporación, sigue las instrucciones de la [descripción general del conector Experience [!DNL Platform] 2&rbrace;. ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=es){target="_blank"} El tutorial del conector Experience [!DNL Platform] cubre cada sección en profundidad y responde a las preguntas que pueda tener. Utilice este tutorial para el resto de los pasos de configuración rápida.
+Para obtener más información sobre cada fase y paso del proceso de incorporación, sigue las instrucciones de la [descripción general del conector Experience [!DNL Platform] 2&rbrace;. &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=es){target="_blank"} El tutorial del conector Experience [!DNL Platform] cubre cada sección en profundidad y responde a las preguntas que pueda tener. Utilice este tutorial para el resto de los pasos de configuración rápida.
 
 ## Configuración de Experience Edge y el Adobe [!DNL Analytics]
 
@@ -92,4 +92,4 @@ Para obtener más información sobre cada fase y paso del proceso de incorporaci
    * [Uso de tablas, visualizaciones y paneles en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=es)
    * [Casos de uso de visualización](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=es)
 
-   Además, hay cursos gratuitos disponibles en Experience League. Ver [!DNL Analytics] cursos disponibles [AQUÍ](https://experienceleague.adobe.com/es?lang=en&amp;Solution=Analytics#courses).
+   Además, hay cursos gratuitos disponibles en Experience League. Ver [!DNL Analytics] cursos disponibles [AQUÍ](https://experienceleague.adobe.com/es?lang=en&Solution=Analytics#courses).
