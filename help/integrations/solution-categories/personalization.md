@@ -2,9 +2,9 @@
 title: Integraciones de aplicaciones para la personalización a escala
 description: Haga que las experiencias personalizadas formen parte de cada momento.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
       <td>
         <ul style="margin-top: 0;">
           <li>
-            AEM Presentar un acuerdo de confidencialidad generado dinámicamente en función de los datos de un grupo de informes de la
+            Presentar un NDA generado dinámicamente en función de los datos de un AEM
             Envío de Forms para su firma
           </li>
         </ul>
@@ -76,8 +76,8 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
     <tr>
       <td>
         Informes para actividades de personalización<br />Analizar optimización
-        resultados de las pruebas, incluidas las pruebas A/B, utilizando el Adobe [!DNL Target] y
-        generando informes completos mediante el Adobe [!DNL Analytics].
+        resultados de las pruebas, incluidas las pruebas A/B, utilizando Adobe [!DNL Target] y
+        generando informes completos mediante Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -97,7 +97,7 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
       <td><strong>Personalización de entregas de correo electrónico</strong></td>
       <td>
         Personalice las entregas de correo electrónico con contenido dinámico aprovechando el
-        capacidades del Adobe [!DNL Target].
+        capacidades de Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -118,7 +118,7 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
         <strong>Expandir audiencias para plataformas de publicidad y personalización</strong>
       </td>
       <td>
-        Use segmentos del Audience Manager para crear audiencias en Real-Time CDP para lo siguiente:
+        Use segmentos de Audience Manager para crear audiencias en Real-Time CDP para lo siguiente
         se utiliza en tácticas de personalización y remarketing.
       </td>
       <td>
@@ -135,7 +135,7 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
             Aproveche la red de datos de terceros de Audience Manager para seguir trabajando
             perfeccione y amplíe sus audiencias para la segmentación
           </li>
-          <li>Uso compartido de segmentos del Audience Manager con RTCDP</li>
+          <li>Uso compartido de segmentos de Audience Manager con RTCDP</li>
         </ul>
       </td>
       <td>
@@ -143,7 +143,7 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Datos de Audience Manager y cliente en tiempo real [!DNL Platform]</a
+          >Datos de clientes en tiempo real y de Audience Manager [!DNL Platform]</a
         >
       </td>
     </tr>
@@ -177,37 +177,37 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
     <tr>
       <td rowspan="2"><strong>Personalización de experiencias web</strong></td>
       <td>
-        SPA Personalización de experiencias de aplicación de una sola página () mediante
-        AEM utilizando sin encabezado de la junto con el Adobe [!DNL Target].
+        Personalizar experiencias de aplicación de una sola página (SPA) mediante
+        utilizar AEM Headless junto con Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>SPA Personalización de aplicaciones móviles y de</li>
+          <li>Personalización de SPA y aplicaciones móviles</li>
           <li>Respuestas de API personalizadas.</li>
           <li>[!DNL Target]Envío de contenido finalizado.</li>
           <li>Variaciones de prueba A/B.</li>
         </ul>
       </td>
       <td>
-        AEM <a
+        <a
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >sin encabezado y [!DNL Target]</a
+          >AEM Headless y [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
         Ofrezca experiencias de sitio web adaptadas utilizando AEM Sites de forma eficaz
-        y el Adobe [!DNL Target] para personalización.
+        y Adobe [!DNL Target] para personalización.
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>AEM Personalización del sitio web de.</li>
-          <li>Personalice el contenido del sitio web.</li>
-          <li>Optimizar experiencias de usuario.</li>
+          <li>Personalización del sitio web de AEM.</li>
           <li>Variaciones de prueba A/B.</li>
+          <li>Segmentación basada en el comportamiento del usuario.</li>
+          <li>Personalización de usuario conocido mediante la vinculación de datos de usuario de varios sistemas, lo que proporciona una vista del cliente de 360 grados.</li>
         </ul>
       </td>
       <td>

@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de integración de Experience Cloud
 breadcrumb-title: Integraciones de Experience Cloud
 user-guide-description: Información sobre integraciones.
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 22%
+source-wordcount: '142'
+ht-degree: 26%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 22%
    + [Información general](./solution-categories/overview.md)
    + [Marketing B2B](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
-   + [Gestión de contenido](./solution-categories/content-management.md)
-   + [Cadena de suministro de contenido](./solution-categories/content-supply-chain.md)
+   + [Gestión de contenidos](./solution-categories/content-management.md)
+   + [Supply chain de contenido](./solution-categories/content-supply-chain.md)
    + [Recorridos del cliente](./solution-categories/customer-journeys.md)
    + [Información de datos y activación](./solution-categories/data-insights.md)
    + [Personalization a escala](./solution-categories/personalization.md)
@@ -94,18 +94,25 @@ ht-degree: 22%
       + [[!DNL Analytics] y  [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] y [!DNL Analytics]{#campaign-analytics}
       + [Integrar  [!DNL Campaign] Standard con [!DNL Analytics] mediante el tutorial de Déclencheur](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign] y el Experience Manager {#campaign-experience-manager}
+   + [!DNL Campaign] y Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 y Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] y Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 y Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
-   + CDP en equipo real{#rtcdp-target}
+   + Real-Team CDP{#rtcdp-target}
       + [Real-Time CDP y  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP y  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP y  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
-   + GenStudio for Performance Marketing y el Experience Manager {#genstudio-for-performance-marketing-experience-manager}
+   + GENSTUDIO FOR PERFORMANCE MARKETING y EXPERIENCE MANAGER {#genstudio-for-performance-marketing-experience-manager}
       + [Información general](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
-      + [Configurar](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+      + [Configuración](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Tutorial de integración](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + Casos de uso{#use-cases}
          + [Revisión y aprobación en Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Crear variantes con Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager y Target{#experience-manager-target}
+      + [Información general](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Configurar](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + Casos de uso{#use-cases}
+         + [Experimentación (prueba A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Segmentación basada en el comportamiento](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Personalization de usuario conocido](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
