@@ -110,10 +110,10 @@ ht-degree: 25%
          + [Revisión y aprobación en Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Crear variantes con Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager y Target{#experience-manager-target}
-      + [Información general](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [Demostración en vivo](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/personalization/live-demo)
-      + [Configurar](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Información general](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Demostración en vivo](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [Configurar](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Casos de uso{#use-cases}
-         + [Experimentación (prueba A/B)](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Experimentación (prueba A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [Segmentación basada en el comportamiento](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [Personalization de usuario conocido](https://experienceleague.adobe.com/es/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [Personalization de usuario conocido](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)

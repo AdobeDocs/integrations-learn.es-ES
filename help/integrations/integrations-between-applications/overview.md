@@ -9,9 +9,9 @@ ht-degree: 10%
 
 ---
 
-# Configuraciones de integración para Experience Cloud: organizadas por aplicación
+# Configuraciones de integración para Experience Cloud, organizadas por aplicación
 
-Esta sección es útil para todos los usuarios que estén familiarizados con las aplicaciones de Adobe y que deseen crear valor empresarial integrando varias aplicaciones de Adobe. Organizamos muchas configuraciones de integración comunes para aplicaciones empresariales de Adobe y las asignamos a casos de uso reales.
+Esta sección es útil para todos los usuarios con conocimientos de aplicaciones de Adobe que deseen crear valor empresarial integrando varias aplicaciones de Adobe. Organizamos muchas configuraciones de integración comunes para aplicaciones empresariales de Adobe y las asignamos a casos de uso reales.
 
 Existen muchas maneras de configurar las aplicaciones de Adobe, según el entorno. Esta sección proporciona instrucciones para ayudarle a implementar tal cual o a modificarlas para satisfacer las necesidades de su entorno.
 
