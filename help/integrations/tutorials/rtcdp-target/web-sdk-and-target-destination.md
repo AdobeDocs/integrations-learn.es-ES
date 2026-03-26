@@ -1,26 +1,26 @@
 ---
-title: Integrar Real-Time CDP y  [!DNL Target] con SDK web y [!DNL Target] destino
-description: Aprenda a integrar Real-Time CDP y  [!DNL Target] con el SDK web y [!DNL Target] destination.
+title: Integrar Real-Time CDP y  [!DNL Target] con Web SDK y [!DNL Target] destination
+description: Aprenda a integrar Real-Time CDP y  [!DNL Target] con Web SDK y [!DNL Target] destination.
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 index: true
 hidefromtoc: true
 last-substantial-update: 2023-07-25T00:00:00Z
 badgeIntegration: label="Integración" type="positive"
 exl-id: 1b589687-eebc-457f-b1fc-72768cb79006
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# Integrar Real-Time CDP y [!DNL Target] con el SDK web y el destino [!DNL Target]
+# Integrar Real-Time CDP y [!DNL Target] con Web SDK y destino [!DNL Target]
 
-## Personalización de próxima visita con Adobe Real-Time CDP y el Adobe [!DNL Target]
+## Personalización de próxima visita con Adobe Real-Time CDP y Adobe [!DNL Target]
 
 Obtenga información general y una demostración de la integración.
 
@@ -29,24 +29,24 @@ Obtenga información general y una demostración de la integración.
 
 ## Configurar el destino de Adobe [!DNL Target] en los datos del cliente en tiempo real [!DNL Platform]
 
-Obtenga información sobre cómo configurar el Adobe [!DNL Target] en los datos del cliente en tiempo real [!DNL Platform].
+Obtenga información sobre cómo configurar el destino de Adobe [!DNL Target] en los datos del cliente en tiempo real [!DNL Platform].
 
->[!VIDEO](https://video.tv.adobe.com/v/3449796/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
 
-## Activar segmentos y atributos de perfil en el Adobe [!DNL Target]
+## Activar segmentos y atributos de perfil en Adobe [!DNL Target]
 
-Obtenga información sobre cómo activar segmentos y atributos de perfil desde el Adobe de datos de clientes en tiempo real [!DNL Platform] hasta el Adobe [!DNL Target].
+Obtenga información sobre cómo activar segmentos y atributos de perfil desde los datos de clientes en tiempo real de Adobe [!DNL Platform] hasta Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3447358/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 
-## Usar segmentos de CDP en tiempo real en el Adobe [!DNL Target]
+## Usar segmentos de CDP en tiempo real en Adobe [!DNL Target]
 
-Aprenda a utilizar los segmentos de datos de clientes en tiempo real [!DNL Platform] en el Adobe [!DNL Target].
+Aprenda a utilizar los segmentos de datos de clientes en tiempo real [!DNL Platform] en Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3446830/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
 
-## Usar atributos de perfil de Real-time CDP en el Adobe [!DNL Target]
+## Usar atributos de perfil CDP en tiempo real en Adobe [!DNL Target]
 
-Aprenda a utilizar los atributos de perfil de datos de clientes en tiempo real de Adobe [!DNL Platform] en el Adobe [!DNL Target].
+Aprenda a utilizar los atributos de perfil de datos de clientes en tiempo real de Adobe [!DNL Platform] en Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3451896/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
