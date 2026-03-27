@@ -2,9 +2,9 @@
 title: Integraciones de aplicaciones para la personalización a escala
 description: Haga que las experiencias personalizadas formen parte de cada momento.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -175,7 +175,7 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Personalización de experiencias web</strong></td>
+      <td rowspan="3"><strong>Personalización de experiencias web</strong></td>
       <td>
         Personalizar experiencias de aplicación de una sola página (SPA) mediante
         utilizar AEM Headless junto con Adobe [!DNL Target].
@@ -219,6 +219,29 @@ Dentro del panorama actual, altamente competitivo y basado en la digitalización
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        Sugerencias prácticas para la integración de AEM y Adobe [!DNL Target]
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>Uso de fragmentos de experiencias para Personalization escalable</li>
+          <li>Segmentos de ContextHub espejo para audiencias de destino</li>
+          <li>Preparar fragmentos de experiencias para segmentar</li>
+          <li>Generar validación de Target en flujos de trabajo de Launch</li>
+          <li>Combinación de Dynamic Media + Target para Visual Personalization</li>
+          <li>Autor para Edge Delivery</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites y [!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>Personalizar experiencias digitales</strong></td>
       <td>
