@@ -12,10 +12,9 @@ duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
 index: true
-hidefromtoc: false
 badgeIntegration: label="AEM Asset y GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -28,4 +27,4 @@ ht-degree: 0%
 
 Conozca los conceptos básicos del uso de la integración de AEM Assets as a Cloud Service y GenStudio for Performance Marketing, la carga de recursos a los AEM Assets, la aprobación de recursos en los AEM Assets y el uso de recursos aprobados en GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439280/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
