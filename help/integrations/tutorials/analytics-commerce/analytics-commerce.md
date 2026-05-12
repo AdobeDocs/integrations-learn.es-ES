@@ -13,12 +13,30 @@ last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Integración" type="positive"
 exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
 TQID: https://experienceleague.adobe.com/yG4EZoiPmm3-HnjD6lZCyBDpaeseNuGb5wRhnCWqRuk
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: c153fd90-23e1-4614-81d3-3cc7571227f7id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
-subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e6c28e30-8689-4bf4-8fa8-561343d308a9id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f236e2a1-90d4-477d-92e1-5996b5e92bff
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d3cdead0-685a-4489-9250-4bb709942f66id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: e6c28e30-8689-4bf4-8fa8-561343d308a9
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+  - id: f236e2a1-90d4-477d-92e1-5996b5e92bff
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
 source-wordcount: 932
@@ -49,7 +67,7 @@ Para ello, inicie sesión en la sección de administración de Adobe [!DNL Comme
    * A continuación, seleccione la configuración del conector Experience [!DNL Platform], como se muestra a continuación.
      ![Conector de experiencia [!DNL Platform]](./assets/analytics-commerce/experience-platform-connector.png)
 
-Para obtener más información sobre cada fase y paso del proceso de incorporación, sigue las instrucciones de la [descripción general del conector Experience [!DNL Platform] 2}. ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}El tutorial del conector Experience [!DNL Platform] cubre cada sección en profundidad y responde a las preguntas que pueda tener. Utilice este tutorial para el resto de los pasos de configuración rápida.
+Para obtener más información sobre cada fase y paso del proceso de incorporación, sigue las instrucciones de la [descripción general del conector Experience [!DNL Platform] 2&rbrace;. &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}El tutorial del conector Experience [!DNL Platform] cubre cada sección en profundidad y responde a las preguntas que pueda tener. Utilice este tutorial para el resto de los pasos de configuración rápida.
 
 ## Configuración de Experience Edge y Adobe [!DNL Analytics]
 
@@ -57,7 +75,7 @@ Para obtener más información sobre cada fase y paso del proceso de incorporaci
 
 1. Cree un nuevo grupo de informes en Adobe [!DNL Analytics] o identifique el identificador del grupo de informes en el que va a insertar los datos de [!DNL Commerce]. Para obtener más información, vea un tutorial sobre [crear un nuevo grupo de informes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html). Necesitará este ID de grupo de informes en el paso del conjunto de datos a continuación.
 
-1. Vaya a la [interfaz de Adobe Experience [!DNL Platform] 2} si tiene acceso a la experiencia [!DNL Platform]. ](https://platform.adobe.com)Si no tiene acceso a esa interfaz, puede realizar todos los pasos necesarios que se enumeran a continuación en la [interfaz de recopilación de datos](https://experience.adobe.com/#/data-collection) de Adobe Experience [!DNL Platform].
+1. Vaya a la [interfaz de Adobe Experience [!DNL Platform] 2&rbrace; si tiene acceso a la experiencia [!DNL Platform]. &#x200B;](https://platform.adobe.com)Si no tiene acceso a esa interfaz, puede realizar todos los pasos necesarios que se enumeran a continuación en la [interfaz de recopilación de datos](https://experience.adobe.com/#/data-collection) de Adobe Experience [!DNL Platform].
 
 1. Cree o actualice su esquema XDM con [!DNL Commerce] grupos de campos específicos. Para obtener más información sobre cómo crear un esquema, consulte el tutorial [&quot;Crear esquemas&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=es).
    * Deberá seleccionar este esquema de las opciones del paso del conjunto de datos a continuación. Para crear un esquema, mire en la columna izquierda debajo de **Administración de datos** y busque **Esquemas**. Ahora, en la parte superior derecha de la interfaz, haga clic en **Crear esquema**. Seleccione ExperienceEvent de XDM.
