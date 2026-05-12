@@ -1,19 +1,23 @@
 ---
-title: Integraciones de aplicaciones para la cadena de suministro de contenido
+title: Integraciones de aplicaciones para supply chain de contenido
 description: Planifique, cree, personalice y publique contenido.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
+TQID: https://experienceleague.adobe.com/1OyoS3OaD8POo-SLGbdX2fApV4MokuigC3sM9xv2ea0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: beb7a3c1-66ab-4786-b879-7621375b3c40id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 332
 ht-degree: 1%
 
 ---
 
-# Cadena de suministro de contenido
+# Supply chain de contenido
 
 Planifique, cree, personalice y publique contenido inolvidable para cada cliente, al ritmo de ahora.
 
-Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias personalizadas requiere más contenido digital que nunca. Con las soluciones de flujo de trabajo creativo y administración de recursos de Adobe, sus equipos pueden planificar, crear y entregar contenido personalizado a escala que admita el recorrido del cliente en cada punto de contacto.
+Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias personalizadas requiere más contenido digital que nunca. Con las soluciones de flujo de trabajo creativo y administración de recursos de Adobe, sus equipos pueden planificar, crear y ofrecer contenido personalizado a escala que admita el recorrido del cliente en cada punto de contacto.
 
 <table>
  <thead>
@@ -27,23 +31,23 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
   <tbody>
 <tr>
   <td rowspan="2"><strong>Creación de garantías de marketing con activos de marca</strong><br/></td>
-  <td>AEM Genere y supervise plantillas y contenido de marketing por correo electrónico usando el Adobe y la [!DNL Campaign].</td>
+  <td>Cree y supervise plantillas y contenido de marketing por correo electrónico con AEM y Adobe [!DNL Campaign].</td>
   <td>
     <ul>
-      <li>AEM Envío de correos electrónicos de marketing creados con</li>
+      <li>Envío de correos electrónicos de marketing creados con AEM</li>
     </ul>    
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] AEM y la</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] y AEM</a></td>
 </tr>
 <tr>
   <td>Cree experiencias de marketing personalizadas y sin marca.</td>
   <td>
     <ul>
       <li>Envíe correos electrónicos de marketing creados en GenStudio for Performance Marketing con imágenes de marca de AEM Assets.</li>
-      <li>Cree anuncios Meta en la marca en GenStudio for Performance Marketing usando imágenes de AEM Assets en la marca.</li>
+      <li>Cree anuncios de Meta en la marca en GenStudio for Performance Marketing usando imágenes de AEM Assets en la marca.</li>
     </ul>    
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GENSTUDIO FOR PERFORMANCE MARKETING AEM y</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GENSTUDIO FOR PERFORMANCE MARKETING y AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>Administrar la creación de recursos</strong><br/></td>
@@ -71,7 +75,7 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets Essentials y Workfront</a></td>
 </tr>
 <tr>
-  <td>Cree y administre actualizaciones de recursos entre aplicaciones de Creative Cloud y Workfront</td>
+  <td>Cree y administre actualizaciones de recursos en aplicaciones de Creative Cloud y Workfront</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Carga y uso compartido de recursos en varias plataformas</li>
@@ -90,7 +94,7 @@ Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias
       <li>Cree y administre recursos en Experience Manager Assets Essentials y utilícelos en Adobe Journey Optimizer</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md">Journey Optimizer AEM y Asset Essentials</a></td>
+  <td><a href="../integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md">Journey Optimizer y AEM Asset Essentials</a></td>
 </tr>
 <tr>
   <td><strong>Recopilar datos de clientes</strong><br/></td>

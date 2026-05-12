@@ -9,12 +9,17 @@ level: Beginner
 index: true
 kt: 13727
 thumbnail: null
-last-substantial-update: 2023-04-11T00:00:00Z
+last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Integración" type="positive"
 exl-id: f0dbd59d-d5e5-40e6-b4a4-e4789e7dd7e3
-source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
+TQID: https://experienceleague.adobe.com/o3HCX8vz8ZKn2j1Hl3W4XWMOudx7MBZCMNRWxO-eKbw
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3aid: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2: id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5eid: f7c7de77-382f-4f48-8b36-61a170f06d3d
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: 341
 ht-degree: 19%
 
 ---
@@ -22,14 +27,14 @@ ht-degree: 19%
 # Integrar Adobe [!DNL Analytics] y el Recorrido del cliente [!DNL Analytics] con el conector de origen de Experience [!DNL Platform]
 
 <ol>
-    <li><a href="https://experienceleague.adobe.com/es?lang=es#dashboard/learning" _target="_blank" rel="noopener noreferrer">Crear esquemas</a> para la ingesta de datos.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=es" _target="_blank" rel="noopener noreferrer">Crear conjuntos de datos</a> para la ingesta de datos.</a></li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=es" _target="_blank" rel="noopener noreferrer">Configure las identidades y áreas de nombres de identidad correctas en el esquema</a> para asegurarse de que los datos ingeridos puedan vincularse a un perfil unificado.</li> 
+    <li><a href="https://experienceleague.adobe.com/?lang=es#dashboard/learning" _target="_blank" rel="noopener noreferrer">Crear esquemas</a> para la ingesta de datos.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html" _target="_blank" rel="noopener noreferrer">Crear conjuntos de datos</a> para la ingesta de datos.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en" _target="_blank" rel="noopener noreferrer">Configure las identidades y áreas de nombres de identidad correctas en el esquema</a> para asegurarse de que los datos ingeridos puedan vincularse a un perfil unificado.</li> 
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html?lang=es" _target="_blank" rel="noopener noreferrer">Habilite los esquemas y conjuntos de datos para el perfil</a>.</li>
     <li>Ingresar datos en la experiencia [!DNL Platform] mediante el conector de origen <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-adobe-analytics.html?lang=es" _target="_blank" rel="noopener noreferrer">Adobe [!DNL Analytics]</a></li>
-    <li><i>(Opcional)</i>. Si usa varios conjuntos de datos, vincule el ID de la persona para <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=es" _target="_blank" rel="noopener noreferrer">generar un conjunto de datos combinado</a>. Si utiliza un solo conjunto de datos de [!DNL Analytics] o si existe un identificador común en todos los conjuntos de datos que planea usar en el Recorrido del cliente [!DNL Analytics], omita este paso.</li>
+    <li><i>(Opcional)</i>. Si usa varios conjuntos de datos, vincule el ID de la persona para <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html" _target="_blank" rel="noopener noreferrer">generar un conjunto de datos combinado</a>. Si utiliza un solo conjunto de datos de [!DNL Analytics] o si existe un identificador común en todos los conjuntos de datos que planea usar en el Recorrido del cliente [!DNL Analytics], omita este paso.</li>
     <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html?lang=es" _target="_blank" rel="noopener noreferrer">Crear una conexión</a> en el Recorrido del cliente [!DNL Analytics].</li>
-    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/basic-configuration-for-data-views.html?lang=es" _target="_blank" rel="noopener noreferrer">Crear una vista de datos</a>, <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configuring-component-settings-in-data-views.html?lang=es" _target="_blank" rel="noopener noreferrer">establecer la configuración del componente</a> y <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/formatting-metrics-in-data-views.html?lang=es" _target="_blank" rel="noopener noreferrer">aplicar formato a las métricas</a> en el Recorrido del cliente [!DNL Analytics].
+    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/basic-configuration-for-data-views.html" _target="_blank" rel="noopener noreferrer">Crear una vista de datos</a>, <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configuring-component-settings-in-data-views.html" _target="_blank" rel="noopener noreferrer">establecer la configuración del componente</a> y <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/formatting-metrics-in-data-views.html" _target="_blank" rel="noopener noreferrer">aplicar formato a las métricas</a> en el Recorrido del cliente [!DNL Analytics].
     <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/build-a-new-project.html?lang=es" _target="_blank" rel="noopener noreferrer">Cree un proyecto en el Recorrido del cliente [!DNL Analytics].</a></li>
 </ol>
 
