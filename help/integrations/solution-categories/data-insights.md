@@ -2,9 +2,23 @@
 title: Integraciones de aplicaciones para activaciones y perspectivas de datos
 description: Impulse la personalización en tiempo real en cualquier canal mediante perspectivas de datos en línea y sin conexión en toda la organización.
 exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/zkqCV7vW8y8lOyV58jQVQImIskKiMqN2oecEKhg6Vd0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: 560
 ht-degree: 1%
 
 ---
@@ -30,7 +44,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
    <td rowspan="8"><b>Análisis de datos e informes</b></td>
 
 <!--  ROW 2a  -->
-<td>Analice los resultados de las pruebas de optimización, incluidas las pruebas A/B, mediante el Adobe [!DNL Target] y la generación de informes completos mediante el Adobe [!DNL Analytics].</td>
+<td>Analice los resultados de las pruebas de optimización, incluidas las pruebas A/B, mediante Adobe [!DNL Target] y generando informes completos mediante Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Mostrar los resultados de las pruebas A/B en informes de análisis enriquecidos.</li>
        </ul></td>
@@ -39,7 +53,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <!--  ROW 2b  -->
 <tr>
-   <td>Envíe datos de segmentos del Audience Manager a [!DNL Analytics] para obtener un análisis, una detección y una optimización de audiencias más profundos.</td>
+   <td>Envíe datos de segmentos de Audience Manager a [!DNL Analytics] para obtener un análisis de audiencia, una detección y una optimización más profundos.</td>
     <td><ul style="margin-top: 0;">
         <li>Envíe datos de segmentos de terceros a [!DNL Analytics] para un análisis de usuario más profundo.</li>
         <li>Enviar datos CRM a [!DNL Analytics] para su inclusión en el análisis de usuarios.</li>
@@ -51,7 +65,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 <tr>
    <td>Expanda audiencias para plataformas de personalización y publicidad.</td>
     <td><ul style="margin-top: 0;">
-        <li>Use el reenvío del lado del servidor para enviar datos de [!DNL Analytics] al Audience Manager y crear segmentos.</li>
+        <li>Use el reenvío del lado del servidor para enviar datos de [!DNL Analytics] a Audience Manager y crear segmentos.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">AUDIENCE MANAGER y [!DNL Analytics]</a></td>
  </tr>
@@ -67,7 +81,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Rastree, analice y genere informes sobre la actividad de los usuarios en sitios web de AEM Sites usando el Adobe [!DNL Analytics] para obtener informes y perspectivas completos.</td>
+   <td>Rastree, analice y genere informes sobre la actividad de los usuarios en sitios web de AEM Sites usando Adobe [!DNL Analytics] para obtener informes y perspectivas completos.</td>
    <td><ul style="margin-top: 0;">
         <li>Rastree, analice e informe sobre métricas clave para páginas de sitio.</li>
         <li>Use los informes de [!DNL Analytics] para tomar decisiones basadas en datos para la experiencia del usuario y la estrategia de contenido.</li>
@@ -89,17 +103,17 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobes [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</td>
+   <td>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobe [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</td>
    <td><ul style="margin-top: 0;">
         <li>Información de datos e informes sobre la actividad comercial.</li>
-        <li>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobes [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</li>
+        <li>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobe [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] y [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2h  -->
 <tr>
-   <td>Use los datos de comportamiento del Adobe [!DNL Analytics] en Analysis Workspace en el Recorrido del cliente [!DNL Analytics].</td>
+   <td>Usar datos de comportamiento de Adobe [!DNL Analytics] en Analysis Workspace en el Recorrido del cliente [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Analice la participación y conversión del canal.</li>
         <li>Comprenda las principales categorías y productos de.</li>
@@ -137,7 +151,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
   <td><ul style="margin-top: 0;">
         <li>Realice segmentaciones y personalizaciones de audiencias digitales anónimas en el sitio web, la aplicación móvil o en canales publicitarios admitidos.</li>
         <li>Optimice las experiencias de página de aterrizaje y autenticación previa en función de las características de comportamiento y del dispositivo conocidas.</li>
-        <li>Aplique la red de datos de terceros Audience Manager para refinar y expandir aún más sus audiencias de segmentación.</li>
+        <li>Aplique la red de datos de terceros de Audience Manager para refinar y expandir aún más sus audiencias de segmentación.</li>
       </ul></td>
   <td><a href="../integrations-between-applications/aam/aam-rtcdp.md" target="_blank" rel="noopener noreferrer">Audience Manager y datos de clientes en tiempo real [!DNL Platform]</a></td>
  </tr>
@@ -154,7 +168,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 <!--  ROW 4  -->
 <tr>
    <td><b>Mida el uso y el rendimiento de la imagen de marketing</b></td>
-   <td>Rastree y analice la efectividad de las imágenes de mercadotecnia integrando AEM Assets y el Adobe [!DNL Analytics].</td>
+   <td>Realice un seguimiento y analice la efectividad de las imágenes de marketing mediante la integración de AEM Assets y Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;"><li>Rastree y analice el rendimiento de los recursos.</li>
            <li>Analice la participación del usuario.</li>
            <li>Optimizar la estrategia de contenido.</li>

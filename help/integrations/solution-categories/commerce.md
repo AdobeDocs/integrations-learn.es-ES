@@ -2,9 +2,17 @@
 title: Integraciones de aplicaciones para el comercio
 description: Cree experiencias de comercio multicanal en una sola plataforma con nuestra solución de comercio flexible y con tecnología de IA.
 exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/apKwbItmCVvmkJ-gx580ymdP7M1FGNieIorzOSHo374
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 174
 ht-degree: 3%
 
 ---
@@ -27,9 +35,9 @@ Cree experiencias de comercio multicanal en una sola plataforma con nuestra solu
  <tr>
    <td><strong>Tienda digital</strong></td>
    <td><ul style="margin-top: 0;">
-          <li>AEM Implementación de una sola tienda en el entorno de
-          <li>AEM Implementación global de varias tiendas en el mundo de la</li>
-          <li>AEM Implementación de varios sistemas con la función de implementación de</li>
+          <li>Implementación de una sola tienda en AEM
+          <li>Implementación global de varias tiendas en AEM</li>
+          <li>Implementación de varios sistemas con AEM</li>
         </ul>
   </td>
    <td>
@@ -40,7 +48,7 @@ Cree experiencias de comercio multicanal en una sola plataforma con nuestra solu
           <li>Implemente configuraciones complejas de varias tiendas.</li>
           <li>Administración de contenido perfecta entre sitios.</li>
           <li>Coordinación eficaz del contenido global.</li>
-          <li>Compatibilidad con varios entornos para el Adobe [!DNL Commerce].</li>
+          <li>Compatibilidad con varios entornos para Adobe [!DNL Commerce].</li>
           <li>Creación de contenido comercial simplificada.</li>
           <li>Administración coherente y eficiente de la tienda.</li>
       </ul>
@@ -49,8 +57,8 @@ Cree experiencias de comercio multicanal en una sola plataforma con nuestra solu
  </tr> 
  <tr>
    <td><strong>Análisis de datos e informes<strong></td>
-   <td>Evalúe el canal de conversión del almacén de comercio, los pedidos, los ingresos y las métricas de visitas y visitantes.</td>
-   <td><ul style="margin-top: 0;"><li>Información de datos e informes sobre la actividad comercial.</li><li>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobes [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</li></ul></td>
+   <td>Evalúe las métricas de funnel, pedidos, ingresos y visitas y visitantes de la tienda de comercio.</td>
+   <td><ul style="margin-top: 0;"><li>Información de datos e informes sobre la actividad comercial.</li><li>Obtenga información exhaustiva sobre el rendimiento del almacén de Adobe [!DNL Commerce] mediante las métricas y dimensiones clave que seleccione.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] y [!DNL Analytics]</a></td>
  </tr>
  </tbody>
