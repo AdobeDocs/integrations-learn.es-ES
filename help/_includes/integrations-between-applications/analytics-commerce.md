@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 2%
+source-wordcount: '251'
+ht-degree: 1%
 
 ---
 
@@ -13,22 +13,22 @@ ht-degree: 2%
 
 {{analytics-description}}
 
-Las ventajas clave de integrar el Adobe [!DNL Commerce] y el Adobe [!DNL Analytics] son:
+Las ventajas clave de integrar Adobe [!DNL Commerce] y Adobe [!DNL Analytics] son:
 
 + **Datos completos del cliente**: la integración ofrece una vista unificada de las interacciones con los clientes, lo que permite a las empresas obtener información más detallada sobre el comportamiento, las preferencias y los patrones de compra de los clientes.
-+ **Atribución de marketing mejorada**: Al combinar los datos del Adobe [!DNL Commerce] y el Adobe [!DNL Analytics], los especialistas en marketing pueden atribuir mejor las ventas y las conversiones a esfuerzos de marketing específicos, lo que permite una optimización y una medición del retorno de la inversión más precisa.
++ **Atribución de marketing mejorada**: Al combinar los datos de Adobe [!DNL Commerce] y Adobe [!DNL Analytics], los especialistas en marketing pueden atribuir mejor las ventas y las conversiones a esfuerzos de marketing específicos, lo que permite una optimización y una medición del retorno de la inversión más precisas.
 + **Experiencias personalizadas del cliente**: La integración de ambas plataformas permite experiencias personalizadas basadas en los datos del cliente, lo que conduce a recomendaciones de productos más relevantes, ofertas específicas y una mejor satisfacción del cliente.
 + **Optimización eficiente del comercio electrónico**: las empresas pueden usar datos de análisis para identificar oportunidades de optimización de sitios web y experiencias de usuario, lo que da como resultado un aumento de las conversiones, un menor abandono del carro de compras y un rendimiento general del comercio electrónico mejorado.
 + **Toma de decisiones basada en datos**: la integración potencia la toma de decisiones basada en datos al proporcionar una vista completa de los recorridos de los clientes, lo que permite a las empresas tomar decisiones informadas de marketing, ventas y productos basadas en perspectivas reales.
 
-En general, la integración de los Adobe Adobes [!DNL Commerce] e [!DNL Analytics] crea un poderoso ecosistema de comercio electrónico que combina perspectivas basadas en datos con experiencias personalizadas, lo que conduce a una mejor participación de los clientes, un aumento de las ventas y un crecimiento empresarial general.
+En general, la integración de Adobe [!DNL Commerce] y Adobe [!DNL Analytics] crea un poderoso ecosistema de comercio electrónico que combina perspectivas impulsadas por datos con experiencias personalizadas, lo que conduce a una mejor participación de los clientes, mayores ventas y crecimiento empresarial general.
 
 ## Integraciones comunes
 
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
@@ -41,7 +41,7 @@ En general, la integración de los Adobe Adobes [!DNL Commerce] e [!DNL Analytic
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Módulo instalado en el Adobe [!DNL Commerce]</li>
+                    <li>Módulo instalado en Adobe [!DNL Commerce]</li>
                     <li>Adobe Experience Edge Network</li>
                     <li>Capa de datos del cliente de Adobe (ACDL)</li>
                 </ul>
