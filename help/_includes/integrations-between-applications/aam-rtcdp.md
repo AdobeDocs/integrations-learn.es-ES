@@ -1,13 +1,13 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 2%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
 
-# Audience Manager e integración de Real-Time CDP
+# Integración de Audience Manager y Real-Time CDP
 
 {{audience-manager-description}}
 
@@ -26,7 +26,7 @@ La integración de Adobe Audience Manager y Adobe Real-Time CDP ofrece las sigui
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
