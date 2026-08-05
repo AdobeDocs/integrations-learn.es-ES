@@ -44,7 +44,7 @@ ht-degree: 0%
 
 Obtenga información general y una demostración de la integración.
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342976?captions=spa&quality=12&learn=on)
 
 
 ## Configurar el destino de Adobe [!DNL Target] en los datos del cliente en tiempo real [!DNL Platform]
