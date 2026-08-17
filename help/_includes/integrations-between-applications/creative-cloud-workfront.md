@@ -1,13 +1,13 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '126'
 ht-degree: 2%
 
 ---
 
 
-# Creative Cloud e integración de Workfront
+# Integración de Creative Cloud y Workfront
 
 {{creative-cloud-description}}
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Las ventajas clave de integrar Adobe Workfront y Adobe Creative Cloud son las siguientes:
 
-+ **Flujo de trabajo creativo**: la integración optimiza las tareas, los comentarios y el registro de tiempo en las aplicaciones de Creative Cloud.
++ **Flujo de trabajo de Creative**: la integración optimiza las tareas, los comentarios y el registro de tiempo en las aplicaciones de Creative Cloud.
 + **Colaboración eficiente**: Workfront facilita revisiones de trabajo creativas, aprobaciones y colaboración en equipo.
 + **Productividad mejorada**: La preferencia de entorno perfecta mejora la velocidad y la calidad de creación del contenido.
 
@@ -24,7 +24,7 @@ Las ventajas clave de integrar Adobe Workfront y Adobe Creative Cloud son las si
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
@@ -32,7 +32,7 @@ Las ventajas clave de integrar Adobe Workfront y Adobe Creative Cloud son las si
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=es" target="_blank" rel="noreferrer">CREATIVE CLOUD y WORKFRONT</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">CREATIVE CLOUD y WORKFRONT</a></td>
             <td>Conector nativo</td>
             <td>
                 <ul style="margin-top: 0;">
