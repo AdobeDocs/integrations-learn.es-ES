@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
+source-wordcount: '134'
+ht-degree: 5%
 
 ---
 
@@ -13,9 +13,9 @@ ht-degree: 6%
 
 {{target-description}}
 
-Los beneficios clave de integrar el Adobe [!DNL Analytics] y el Adobe [!DNL Target] (A4T) son:
+Las ventajas clave de integrar Adobe [!DNL Analytics] y Adobe [!DNL Target] (A4T) son:
 
-+ **Personalización basada en datos**: use [!DNL Analytics] para actividades segmentadas en el Adobe [!DNL Target], lo que mejorará las estrategias de personalización.
++ **Personalización basada en datos**: use [!DNL Analytics] para actividades segmentadas en Adobe [!DNL Target], lo que mejora las estrategias de personalización.
 + **Informes unificados**: la integración de A4T combina informes de [!DNL Target] y [!DNL Analytics] para un análisis exhaustivo.
 + **Segmentación optimizada**: Base las decisiones en los datos de [!DNL Analytics] para obtener una segmentación de audiencia y una optimización de contenido precisas.
 + **Audiencias compartidas**: Use [!DNL Analytics] para crear segmentos detallados y compártalos con [!DNL Target] para usarlos como audiencias para pruebas.
@@ -23,7 +23,7 @@ Los beneficios clave de integrar el Adobe [!DNL Analytics] y el Adobe [!DNL Targ
 <table>
     <thead>
             <tr>
-                <th>aplicaciones de Experience Cloud</th>
+                <th>Aplicaciones de Experience Cloud</th>
                 <th>Se integra mediante</th>
                 <th>Cuándo usar</th>
                 <th>Casos de uso comunes</th>
@@ -39,7 +39,7 @@ Los beneficios clave de integrar el Adobe [!DNL Analytics] y el Adobe [!DNL Targ
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Desea usar las características de informes enriquecidas del Adobe [!DNL Analytics] para mostrar y analizar [!DNL Target] resultados de la actividad.</li>
+                    <li>Desea usar las características de informes enriquecidas de Adobe [!DNL Analytics] para mostrar y analizar [!DNL Target] resultados de la actividad.</li>
                 </ul>
             </td>
             <td>
