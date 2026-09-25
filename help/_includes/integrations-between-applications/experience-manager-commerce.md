@@ -32,7 +32,7 @@ La integración de AEM y Adobe [!DNL Commerce] mediante [!DNL Commerce] Integrat
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites as a Cloud Service y [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">Crear una sola tienda utilizando [!DNL Commerce] Integration Framework (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=es" target="_blank" rel="noreferrer">Crear una sola tienda utilizando [!DNL Commerce] Integration Framework (CIF)</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Cuando quiera una sola tienda en AEM.</li>
@@ -48,7 +48,7 @@ La integración de AEM y Adobe [!DNL Commerce] mediante [!DNL Commerce] Integrat
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">Crear varias tiendas con [!DNL Commerce] Integration Framework (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=es" target="_blank" rel="noreferrer">Crear varias tiendas con [!DNL Commerce] Integration Framework (CIF)</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Cuando quiera tener varias tiendas en AEM.</li>
