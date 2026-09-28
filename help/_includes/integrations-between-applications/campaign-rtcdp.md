@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 2%
-
 ---
-
 
 # [!DNL Campaign] y datos de clientes en tiempo real [!DNL Platform]
 
@@ -13,16 +11,16 @@ ht-degree: 2%
 
 {{real-time-cdp-description}}
 
-Los conectores de Source y destino de Cloud Service administrado de Adobe [!DNL Campaign] permiten una integración perfecta entre el Adobe [!DNL Campaign] y la experiencia de Adobe [!DNL Platform]. Entre las ventajas principales de esta integración se incluyen:
+Los conectores Adobe [!DNL Campaign] Managed Cloud Service Destination y Source permiten una integración perfecta entre Adobe [!DNL Campaign] y Adobe Experience [!DNL Platform]. Entre las ventajas principales de esta integración se incluyen:
 
-+ **Aumente las capacidades de segmentación de [!DNL Campaign]** con esas audiencias impulsadas por la experiencia de Adobe [!DNL Platform] y active esos datos en [!DNL Campaign].
++ **Aumente las capacidades de segmentación de [!DNL Campaign]** con esas audiencias impulsadas por Adobe Experience [!DNL Platform] y active esos datos en [!DNL Campaign].
 
 ## Integraciones comunes
 
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
@@ -31,10 +29,10 @@ Los conectores de Source y destino de Cloud Service administrado de Adobe [!DNL 
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] v8 con Real-Time CDP</a></td>
-            <td>[!DNL Campaign] Destino de Cloud Service administrados</td>
+            <td>[!DNL Campaign] Destino de Cloud Services administrados</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Aproveche la experiencia de Adobe [!DNL Platform] con segmentos inteligentes y actívelos con el Adobe [!DNL Campaign] para llegar a su base de clientes en los diferentes canales admitidos por el Adobe [!DNL Campaign].</li>
+                    <li>Aproveche los segmentos inteligentes con tecnología de Adobe Experience [!DNL Platform] y actívelos con Adobe [!DNL Campaign] para llegar a su base de clientes en los diferentes canales admitidos por Adobe [!DNL Campaign].</li>
                 </ul>
             </td>
             <td>
