@@ -1,19 +1,17 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '150'
 ht-degree: 2%
-
 ---
 
-
-# Integrar el Adobe [!DNL Analytics] con la experiencia [!DNL Platform]
+# Integrar Adobe [!DNL Analytics] con la experiencia [!DNL Platform]
 
 {{analytics-description}}
 
 {{experience-platform-description}}
 
-La integración del Adobe [!DNL Analytics] y la experiencia de Adobe [!DNL Platform] ofrece varios beneficios para las empresas:
+La integración de Adobe [!DNL Analytics] y Adobe Experience [!DNL Platform] ofrece varias ventajas para las empresas:
 
 + **Flujo de trabajo iniciado por la interfaz de usuario** directo
 + **Asignación de la interfaz de usuario** para copiar [!DNL Analytics] props y eVars en los nuevos campos XDM
@@ -26,7 +24,7 @@ Al integrar estas plataformas, las empresas pueden aprovechar los datos para log
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
@@ -34,7 +32,7 @@ Al integrar estas plataformas, las empresas pueden aprovechar los datos para log
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=es" target="_blank" rel="noreferrer">[!DNL Analytics] y experiencia [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] y experiencia [!DNL Platform]</a></td>
             <td>Conector de origen de Experience [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
