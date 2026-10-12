@@ -1,19 +1,17 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '228'
 ht-degree: 1%
-
 ---
 
-
-# Integrar el Adobe [!DNL Analytics] con el Recorrido del cliente [!DNL Analytics]
+# Integrar Adobe [!DNL Analytics] con el Recorrido del cliente [!DNL Analytics]
 
 {{analytics-description}}
 
 {{customer-journey-analytics-description}}
 
-La integración del Adobe [!DNL Analytics] con el Recorrido del cliente [!DNL Analytics] ofrece ventajas clave:
+La integración de Adobe [!DNL Analytics] con el Recorrido del cliente [!DNL Analytics] ofrece ventajas clave:
 
 + **Información exhaustiva** sobre los comportamientos y preferencias de los clientes.
 + **Seguimiento en canales múltiples sin fisuras** para obtener una vista integral.
@@ -26,7 +24,7 @@ La integración del Adobe [!DNL Analytics] con el Recorrido del cliente [!DNL An
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
@@ -38,7 +36,7 @@ La integración del Adobe [!DNL Analytics] con el Recorrido del cliente [!DNL An
             <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Conector de origen de Experience [!DNL Platform]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Enfoque recomendado para los clientes que ya han implementado el Adobe [!DNL Analytics] y desean la forma más rápida de introducir estos datos en la experiencia [!DNL Platform] para usarlos en el Recorrido del cliente [!DNL Analytics].</li>
+                    <li>Enfoque recomendado para los clientes que ya han implementado Adobe [!DNL Analytics] y desean la forma más rápida de introducir estos datos en la experiencia [!DNL Platform] para usarlos en el Recorrido del cliente [!DNL Analytics].</li>
                     <li>Cuando la disponibilidad de los datos para el perfil del cliente puede estar entre 2 y 30 minutos desde el momento de la recopilación de datos, y la disponibilidad para el lago de datos es de hasta 90 minutos.</li>
                 </ul>
             </td>
@@ -55,7 +53,7 @@ La integración del Adobe [!DNL Analytics] con el Recorrido del cliente [!DNL An
             <td>
                 <ul style="margin-top: 0;">
                     <li>Enfoque recomendado para nuevas implementaciones de [!DNL Analytics] o cuando se desea implementar una estrategia a largo plazo.</li>
-                    <li>Envía datos directamente desde un dispositivo a Experience [!DNL Platform] mediante el SDK web de AEP, el SDK móvil de AEP o la API de servidor de Edge Network.</li>
+                    <li>Envía datos directamente desde un dispositivo a Experience [!DNL Platform] mediante AEP Web SDK, AEP Mobile SDK o la API de servidor de Edge Network.</li>
                 </ul>
             </td>
             <td>
