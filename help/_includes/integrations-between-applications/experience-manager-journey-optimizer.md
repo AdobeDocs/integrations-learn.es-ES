@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 3%
-
+source-wordcount: '117'
+ht-degree: 15%
 ---
-
 
 # Journey Optimizer y Experience Manager Assets Essentials
 
@@ -26,7 +24,7 @@ La integración de Adobe Journey Optimizer y Experience Manager Assets Essential
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Se integra mediante</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
