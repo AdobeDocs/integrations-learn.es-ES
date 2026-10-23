@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '137'
 ht-degree: 2%
-
 ---
-
 
 # Integración de Acrobat Sign y Experience Manager
 
@@ -13,7 +11,7 @@ ht-degree: 2%
 
 {{experience-manager-description}}
 
-La integración de Acrobat Sign con Adobe Experience Manager AEM () ofrece las siguientes ventajas:
+La integración de Acrobat Sign con Adobe Experience Manager (AEM) ofrece las siguientes ventajas:
 
 + **Flujos de trabajo de documentos optimizados**: Automatice la firma de documentos en AEM Forms, acelere las aprobaciones y elimine la administración manual.
 + **Experiencia del usuario mejorada**: Habilite las firmas electrónicas y reduzca la impresión y el envío por correo para que los procesos sean más rápidos y eficientes.
@@ -25,7 +23,7 @@ La integración de Acrobat Sign con Adobe Experience Manager AEM () ofrece las s
 <table>
     <thead>
         <tr>
-            <th>aplicaciones de Experience Cloud</th>
+            <th>Aplicaciones de Experience Cloud</th>
             <th>Cuándo usar</th>
             <th>Casos de uso comunes</th>
         </tr>
