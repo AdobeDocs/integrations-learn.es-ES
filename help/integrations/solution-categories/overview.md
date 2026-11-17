@@ -4,11 +4,9 @@ description: Obtenga información sobre las configuraciones de integración comu
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 11%
-
 ---
-
 # Configuraciones de integración para Experience Cloud, organizadas por solución
 
 Esta sección es útil para cualquier persona que tenga una necesidad empresarial, pero no esté segura de qué aplicaciones de Adobe utilizar y cómo integrarlas. Estas son muchas de las configuraciones de integración más comunes, organizadas por soluciones (marketing B2B, supply chain de contenido, perspectivas de datos y activación, etc.).
